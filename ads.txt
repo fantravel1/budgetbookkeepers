@@ -1,0 +1,21 @@
+# ads.txt - Authorized Digital Sellers
+# https://iabtechlab.com/ads-txt
+# Last Updated: 2026-02-18
+
+# Contact: publisher@budgetbookkeepers.com
+# This file identifies authorized partners for programmatic advertising
+
+# Direct partnerships (none at launch)
+# Format: [Ad system domain], [Owner Account ID], [Account Type], [Certification Authority ID]
+
+# If your organization wants to serve ads on BudgetBookkeepers.com:
+# 1. Contact: publisher@budgetbookkeepers.com
+# 2. We will verify your legitimacy
+# 3. We will add your details to this file
+
+# Future ad partners will be listed here with full transparency
+# We prioritize:
+# - Privacy-respecting ad networks
+# - Female-founded companies
+# - Businesses aligned with our mission
+# - Ethical advertising practices

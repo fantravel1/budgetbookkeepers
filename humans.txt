@@ -1,0 +1,37 @@
+/* TEAM */
+Name: Budget Bookkeepers Team
+Site: https://budgetbookkeepers.com
+Twitter: @budgetbookkeepers
+Location: Global
+
+/* THANKS */
+Thanks to our global community of female bookkeepers,
+entrepreneurs, and supporters making this vision possible.
+
+/* SITE */
+Language: English, Spanish, French
+CMS: Static HTML
+Standards: HTML5, CSS3
+Components: Responsive Design
+Hosting: GitHub Pages
+Last Updated: 2026-02-18
+
+/* MISSION */
+BudgetBookkeepers.com connects women entrepreneurs worldwide
+with affordable, transparent, and trustworthy female-only
+bookkeeping professionals.
+
+Mission: Reduce financial intimidation. Build entrepreneurship
+confidence. Elevate female financial professionals.
+
+/* VALUES */
+- Transparency before everything
+- Affordability without compromise
+- Trust through verification
+- Global inclusion
+- Women-led excellence
+- Ethical growth
+
+/* CONTACT */
+For inquiries: https://budgetbookkeepers.com
+Support: Available through the platform

@@ -1,0 +1,20 @@
+Contact: security@budgetbookkeepers.com
+Expires: 2027-02-18T00:00:00.000Z
+Preferred-Languages: en, es, fr
+Canonical: https://budgetbookkeepers.com/.well-known/security.txt
+Policy: https://budgetbookkeepers.com/security-policy.html
+Acknowledgments: https://budgetbookkeepers.com/security-acknowledgments.html
+
+# Security Policy
+#
+# BudgetBookkeepers.com is committed to transparency and security.
+#
+# If you discover a security vulnerability:
+#
+# 1. Please email security@budgetbookkeepers.com
+# 2. Include details of the vulnerability
+# 3. Provide reasonable time for us to respond (minimum 30 days)
+# 4. Avoid public disclosure until we've issued a patch
+#
+# We appreciate your help in keeping our platform safe for
+# all women entrepreneurs and bookkeeping professionals.

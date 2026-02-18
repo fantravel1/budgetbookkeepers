@@ -1,0 +1,29 @@
+# BudgetBookkeepers.com - Robots.txt
+# Controls search engine crawling and indexing
+
+# Allow all search engines
+User-agent: *
+Allow: /
+
+# Specific rules for Googlebot
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+# Specific rules for Bingbot
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 0
+
+# Disallow crawling of directories that might not need indexing
+User-agent: *
+Disallow: /css/
+Disallow: /js/
+Disallow: /*.json$
+Disallow: /.well-known/
+
+# Allow sitemap
+Sitemap: https://budgetbookkeepers.com/sitemap.xml
+
+# Specify primary domain (helps with canonicalization)
+Host: budgetbookkeepers.com
