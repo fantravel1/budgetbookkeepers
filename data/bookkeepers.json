@@ -5,19 +5,38 @@
       "name": "Sarah Martinez",
       "location": "Mexico City, Mexico",
       "remote": true,
-      "languages": ["Spanish", "English"],
-      "specializations": ["E-commerce", "Freelancers", "Small Retail"],
+      "languages": [
+        "Spanish",
+        "English"
+      ],
+      "specializations": [
+        "E-commerce",
+        "Freelancers",
+        "Small Retail"
+      ],
       "experience_years": 8,
-      "certifications": ["Contador Público", "QuickBooks Certified"],
+      "certifications": [
+        "Contador P\u00fablico",
+        "QuickBooks Certified"
+      ],
       "tier": "starter",
       "pricing": {
         "range": "$80-$150",
         "currency": "USD",
         "frequency": "monthly",
         "setup_fee": "$150",
-        "includes": ["Transaction recording", "Bank reconciliation", "Monthly reports", "Email support"]
+        "includes": [
+          "Transaction recording",
+          "Bank reconciliation",
+          "Monthly reports",
+          "Email support"
+        ]
       },
-      "software_expertise": ["QuickBooks Online", "Xero", "Wave"],
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Wave"
+      ],
       "payroll_capable": false,
       "reviews": {
         "average_rating": 4.9,
@@ -26,26 +45,52 @@
       },
       "availability": "Now accepting new clients",
       "free_consultation": true,
-      "industries_served": ["E-commerce", "Freelance Services", "Tutoring", "Beauty & Wellness"]
+      "industries_served": [
+        "E-commerce",
+        "Freelance Services",
+        "Tutoring",
+        "Beauty & Wellness"
+      ]
     },
     {
       "id": "bb-002",
       "name": "Jessica Chen",
       "location": "Toronto, Canada",
       "remote": true,
-      "languages": ["English", "Mandarin"],
-      "specializations": ["Small Business Owners", "Immigrant Entrepreneurs", "Service Businesses"],
+      "languages": [
+        "English",
+        "Mandarin"
+      ],
+      "specializations": [
+        "Small Business Owners",
+        "Immigrant Entrepreneurs",
+        "Service Businesses"
+      ],
       "experience_years": 12,
-      "certifications": ["CPA, CA (Canada)", "Xero Platinum Partner"],
+      "certifications": [
+        "CPA, CA (Canada)",
+        "Xero Platinum Partner"
+      ],
       "tier": "growth",
       "pricing": {
         "range": "$200-$350",
         "currency": "CAD",
         "frequency": "monthly",
         "setup_fee": "$250",
-        "includes": ["Everything in Starter", "Invoicing & expense tracking", "Monthly financial statements", "Quarterly check-ins", "Dedicated bookkeeper"]
+        "includes": [
+          "Everything in Starter",
+          "Invoicing & expense tracking",
+          "Monthly financial statements",
+          "Quarterly check-ins",
+          "Dedicated bookkeeper"
+        ]
       },
-      "software_expertise": ["QuickBooks Online", "Xero", "FreshBooks", "Wave"],
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "FreshBooks",
+        "Wave"
+      ],
       "payroll_capable": true,
       "payroll_details": "Handles basic payroll, employees up to 10",
       "reviews": {
@@ -55,26 +100,50 @@
       },
       "availability": "Limited availability - 2-3 week wait",
       "free_consultation": true,
-      "industries_served": ["Consulting", "Service Providers", "Immigrant-Owned Businesses", "Professional Services"]
+      "industries_served": [
+        "Consulting",
+        "Service Providers",
+        "Immigrant-Owned Businesses",
+        "Professional Services"
+      ]
     },
     {
       "id": "bb-003",
       "name": "Amara Okafor",
       "location": "London, UK",
       "remote": true,
-      "languages": ["English", "Yoruba"],
-      "specializations": ["Creative Industries", "Freelance Designers", "Content Creators"],
+      "languages": [
+        "English",
+        "Yoruba"
+      ],
+      "specializations": [
+        "Creative Industries",
+        "Freelance Designers",
+        "Content Creators"
+      ],
       "experience_years": 6,
-      "certifications": ["AAT Level 3", "Xero Certified"],
+      "certifications": [
+        "AAT Level 3",
+        "Xero Certified"
+      ],
       "tier": "starter",
       "pricing": {
-        "range": "£60-£100",
+        "range": "\u00a360-\u00a3100",
         "currency": "GBP",
         "frequency": "monthly",
-        "setup_fee": "£80",
-        "includes": ["Transaction recording", "Bank reconciliation", "Monthly reports", "Email support"]
+        "setup_fee": "\u00a380",
+        "includes": [
+          "Transaction recording",
+          "Bank reconciliation",
+          "Monthly reports",
+          "Email support"
+        ]
       },
-      "software_expertise": ["Xero", "QuickBooks Online", "FreshBooks"],
+      "software_expertise": [
+        "Xero",
+        "QuickBooks Online",
+        "FreshBooks"
+      ],
       "payroll_capable": false,
       "reviews": {
         "average_rating": 4.85,
@@ -83,26 +152,52 @@
       },
       "availability": "Now accepting new clients",
       "free_consultation": true,
-      "industries_served": ["Creative Services", "Freelance Design", "Content Creation", "Photography"]
+      "industries_served": [
+        "Creative Services",
+        "Freelance Design",
+        "Content Creation",
+        "Photography"
+      ]
     },
     {
       "id": "bb-004",
-      "name": "Laura Gómez",
+      "name": "Laura G\u00f3mez",
       "location": "Buenos Aires, Argentina",
       "remote": true,
-      "languages": ["Spanish", "English", "Portuguese"],
-      "specializations": ["Food & Beverage", "Small Restaurant Owners", "Catering"],
+      "languages": [
+        "Spanish",
+        "English",
+        "Portuguese"
+      ],
+      "specializations": [
+        "Food & Beverage",
+        "Small Restaurant Owners",
+        "Catering"
+      ],
       "experience_years": 15,
-      "certifications": ["Contador Público Argentino", "QuickBooks Advanced"],
+      "certifications": [
+        "Contador P\u00fablico Argentino",
+        "QuickBooks Advanced"
+      ],
       "tier": "growth",
       "pricing": {
         "range": "$150-$300",
         "currency": "USD",
         "frequency": "monthly",
         "setup_fee": "$200",
-        "includes": ["Everything in Starter", "Invoicing", "Expense categorization", "Monthly statements", "Quarterly check-ins"]
+        "includes": [
+          "Everything in Starter",
+          "Invoicing",
+          "Expense categorization",
+          "Monthly statements",
+          "Quarterly check-ins"
+        ]
       },
-      "software_expertise": ["QuickBooks Online", "Xero", "Wave"],
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Wave"
+      ],
       "payroll_capable": true,
       "payroll_details": "Handles payroll for up to 20 employees, understands Argentine tax requirements",
       "reviews": {
@@ -112,26 +207,51 @@
       },
       "availability": "Now accepting new clients",
       "free_consultation": true,
-      "industries_served": ["Food & Beverage", "Restaurants", "Catering", "Small Hospitality"]
+      "industries_served": [
+        "Food & Beverage",
+        "Restaurants",
+        "Catering",
+        "Small Hospitality"
+      ]
     },
     {
       "id": "bb-005",
       "name": "Nina Patel",
       "location": "Mumbai, India",
       "remote": true,
-      "languages": ["English", "Hindi", "Gujarati"],
-      "specializations": ["E-commerce", "Digital Businesses", "Startups"],
+      "languages": [
+        "English",
+        "Hindi",
+        "Gujarati"
+      ],
+      "specializations": [
+        "E-commerce",
+        "Digital Businesses",
+        "Startups"
+      ],
       "experience_years": 7,
-      "certifications": ["CA (India)", "QuickBooks Certified"],
+      "certifications": [
+        "CA (India)",
+        "QuickBooks Certified"
+      ],
       "tier": "starter",
       "pricing": {
         "range": "$50-$100",
         "currency": "USD",
         "frequency": "monthly",
         "setup_fee": "$75",
-        "includes": ["Transaction recording", "Bank reconciliation", "Monthly reports", "Email support"]
+        "includes": [
+          "Transaction recording",
+          "Bank reconciliation",
+          "Monthly reports",
+          "Email support"
+        ]
       },
-      "software_expertise": ["QuickBooks Online", "Xero", "TallyERP"],
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "TallyERP"
+      ],
       "payroll_capable": false,
       "reviews": {
         "average_rating": 4.88,
@@ -140,26 +260,50 @@
       },
       "availability": "Now accepting new clients",
       "free_consultation": true,
-      "industries_served": ["E-commerce", "Digital Businesses", "SaaS Startups", "IT Services"]
+      "industries_served": [
+        "E-commerce",
+        "Digital Businesses",
+        "SaaS Startups",
+        "IT Services"
+      ]
     },
     {
       "id": "bb-006",
       "name": "Michelle Williams",
       "location": "Atlanta, USA",
       "remote": true,
-      "languages": ["English"],
-      "specializations": ["Nonprofits", "Faith Organizations", "Community Services"],
+      "languages": [
+        "English"
+      ],
+      "specializations": [
+        "Nonprofits",
+        "Faith Organizations",
+        "Community Services"
+      ],
       "experience_years": 14,
-      "certifications": ["CPA (Georgia)", "Nonprofit Accounting Specialist"],
+      "certifications": [
+        "CPA (Georgia)",
+        "Nonprofit Accounting Specialist"
+      ],
       "tier": "scaling",
       "pricing": {
         "range": "$500-$850",
         "currency": "USD",
         "frequency": "monthly",
         "setup_fee": "$300",
-        "includes": ["Everything in Growth", "Grant tracking", "Nonprofit compliance", "Form 990 preparation support", "Donor reporting"]
+        "includes": [
+          "Everything in Growth",
+          "Grant tracking",
+          "Nonprofit compliance",
+          "Form 990 preparation support",
+          "Donor reporting"
+        ]
       },
-      "software_expertise": ["QuickBooks Online (Nonprofit)", "Xero", "Apptio"],
+      "software_expertise": [
+        "QuickBooks Online (Nonprofit)",
+        "Xero",
+        "Apptio"
+      ],
       "payroll_capable": true,
       "payroll_details": "Full payroll services for nonprofits",
       "reviews": {
@@ -169,26 +313,51 @@
       },
       "availability": "Limited - highly sought",
       "free_consultation": true,
-      "industries_served": ["Nonprofits", "Faith Organizations", "Community Services", "Educational Nonprofits"]
+      "industries_served": [
+        "Nonprofits",
+        "Faith Organizations",
+        "Community Services",
+        "Educational Nonprofits"
+      ]
     },
     {
       "id": "bb-007",
       "name": "Sofia Rossi",
       "location": "Sydney, Australia",
       "remote": true,
-      "languages": ["English", "Italian"],
-      "specializations": ["Small Business", "Family Businesses", "Tradies"],
+      "languages": [
+        "English",
+        "Italian"
+      ],
+      "specializations": [
+        "Small Business",
+        "Family Businesses",
+        "Tradies"
+      ],
       "experience_years": 10,
-      "certifications": ["CPA (Australia)", "Advanced Xero Certification"],
+      "certifications": [
+        "CPA (Australia)",
+        "Advanced Xero Certification"
+      ],
       "tier": "growth",
       "pricing": {
         "range": "AUD $200-$400",
         "currency": "AUD",
         "frequency": "monthly",
         "setup_fee": "AUD $250",
-        "includes": ["Transaction recording", "Bank reconciliation", "Monthly reports", "Quarterly reviews", "Payroll support"]
+        "includes": [
+          "Transaction recording",
+          "Bank reconciliation",
+          "Monthly reports",
+          "Quarterly reviews",
+          "Payroll support"
+        ]
       },
-      "software_expertise": ["Xero", "QuickBooks Online", "MYOB"],
+      "software_expertise": [
+        "Xero",
+        "QuickBooks Online",
+        "MYOB"
+      ],
       "payroll_capable": true,
       "payroll_details": "Payroll for up to 15 employees, GST compliance",
       "reviews": {
@@ -198,26 +367,51 @@
       },
       "availability": "Now accepting new clients",
       "free_consultation": true,
-      "industries_served": ["Tradies", "Family Businesses", "Small Retail", "Professional Services"]
+      "industries_served": [
+        "Tradies",
+        "Family Businesses",
+        "Small Retail",
+        "Professional Services"
+      ]
     },
     {
       "id": "bb-008",
       "name": "Carmen Lopez",
       "location": "Madrid, Spain",
       "remote": true,
-      "languages": ["Spanish", "English", "Catalan"],
-      "specializations": ["Freelancers", "Digital Services", "Women-Owned Businesses"],
+      "languages": [
+        "Spanish",
+        "English",
+        "Catalan"
+      ],
+      "specializations": [
+        "Freelancers",
+        "Digital Services",
+        "Women-Owned Businesses"
+      ],
       "experience_years": 9,
-      "certifications": ["Técnico Superior en Administración", "Xero Certified"],
+      "certifications": [
+        "T\u00e9cnico Superior en Administraci\u00f3n",
+        "Xero Certified"
+      ],
       "tier": "starter",
       "pricing": {
-        "range": "€70-€130",
+        "range": "\u20ac70-\u20ac130",
         "currency": "EUR",
         "frequency": "monthly",
-        "setup_fee": "€100",
-        "includes": ["Transaction recording", "Bank reconciliation", "Monthly reports", "Email support"]
+        "setup_fee": "\u20ac100",
+        "includes": [
+          "Transaction recording",
+          "Bank reconciliation",
+          "Monthly reports",
+          "Email support"
+        ]
       },
-      "software_expertise": ["Xero", "QuickBooks Online", "Facturación"],
+      "software_expertise": [
+        "Xero",
+        "QuickBooks Online",
+        "Facturaci\u00f3n"
+      ],
       "payroll_capable": false,
       "reviews": {
         "average_rating": 4.87,
@@ -226,26 +420,51 @@
       },
       "availability": "Now accepting new clients",
       "free_consultation": true,
-      "industries_served": ["Freelancers", "Digital Businesses", "Women-Owned Businesses", "Creative Services"]
+      "industries_served": [
+        "Freelancers",
+        "Digital Businesses",
+        "Women-Owned Businesses",
+        "Creative Services"
+      ]
     },
     {
       "id": "bb-009",
       "name": "Priya Nair",
       "location": "Dubai, UAE",
       "remote": true,
-      "languages": ["English", "Malayalam"],
-      "specializations": ["Import/Export", "Trading Companies", "International Business"],
+      "languages": [
+        "English",
+        "Malayalam"
+      ],
+      "specializations": [
+        "Import/Export",
+        "Trading Companies",
+        "International Business"
+      ],
       "experience_years": 11,
-      "certifications": ["CPA (USA)", "UAE VAT Specialist"],
+      "certifications": [
+        "CPA (USA)",
+        "UAE VAT Specialist"
+      ],
       "tier": "scaling",
       "pricing": {
         "range": "AED 2,000-4,000",
         "currency": "AED",
         "frequency": "monthly",
         "setup_fee": "AED 1,500",
-        "includes": ["All Growth services", "VAT compliance", "International invoicing", "Currency management", "Priority support"]
+        "includes": [
+          "All Growth services",
+          "VAT compliance",
+          "International invoicing",
+          "Currency management",
+          "Priority support"
+        ]
       },
-      "software_expertise": ["QuickBooks Online", "Xero", "SAP"],
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "SAP"
+      ],
       "payroll_capable": true,
       "payroll_details": "Handles UAE labor law compliance, end-of-service benefits",
       "reviews": {
@@ -255,26 +474,51 @@
       },
       "availability": "Limited - only 1-2 slots",
       "free_consultation": true,
-      "industries_served": ["Import/Export", "Trading", "International Business", "Regional Businesses"]
+      "industries_served": [
+        "Import/Export",
+        "Trading",
+        "International Business",
+        "Regional Businesses"
+      ]
     },
     {
       "id": "bb-010",
       "name": "Emma Thompson",
       "location": "Vancouver, Canada",
       "remote": true,
-      "languages": ["English", "French"],
-      "specializations": ["Wellness & Beauty", "Salon Owners", "Spa Businesses"],
+      "languages": [
+        "English",
+        "French"
+      ],
+      "specializations": [
+        "Wellness & Beauty",
+        "Salon Owners",
+        "Spa Businesses"
+      ],
       "experience_years": 13,
-      "certifications": ["CPA, CMA (Canada)", "Business Accounting Specialist"],
+      "certifications": [
+        "CPA, CMA (Canada)",
+        "Business Accounting Specialist"
+      ],
       "tier": "growth",
       "pricing": {
         "range": "CAD $250-$400",
         "currency": "CAD",
         "frequency": "monthly",
         "setup_fee": "$200",
-        "includes": ["Complete bookkeeping", "Inventory tracking", "Staff commission management", "Monthly reports", "Quarterly planning"]
+        "includes": [
+          "Complete bookkeeping",
+          "Inventory tracking",
+          "Staff commission management",
+          "Monthly reports",
+          "Quarterly planning"
+        ]
       },
-      "software_expertise": ["QuickBooks Online", "Xero", "Square Integration"],
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Square Integration"
+      ],
       "payroll_capable": true,
       "payroll_details": "Payroll for salon/spa staff, commission tracking",
       "reviews": {
@@ -284,7 +528,4632 @@
       },
       "availability": "Now accepting new clients",
       "free_consultation": true,
-      "industries_served": ["Beauty & Wellness", "Salons", "Spas", "Fitness Centers"]
+      "industries_served": [
+        "Beauty & Wellness",
+        "Salons",
+        "Spas",
+        "Fitness Centers"
+      ]
+    },
+    {
+      "id": "bb-011",
+      "name": "Victoria Santos",
+      "location": "Miami, Florida, USA",
+      "remote": true,
+      "languages": [
+        "English",
+        "Spanish",
+        "Portuguese"
+      ],
+      "specializations": [
+        "Import/Export",
+        "Latin American Businesses",
+        "International Trade"
+      ],
+      "experience_years": 16,
+      "certifications": [
+        "CPA (Florida)",
+        "Certified Trade Finance Specialist"
+      ],
+      "tier": "scaling",
+      "pricing": {
+        "range": "$650-$1,100",
+        "currency": "USD",
+        "frequency": "monthly",
+        "setup_fee": "$400",
+        "includes": [
+          "All Growth services",
+          "International accounting",
+          "Currency management",
+          "Trade compliance support"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Enterprise",
+        "Xero",
+        "NetSuite"
+      ],
+      "payroll_capable": true,
+      "payroll_details": "Multi-state payroll, international employee handling",
+      "reviews": {
+        "average_rating": 4.93,
+        "total_reviews": 67,
+        "recent_quote": "Victoria's understanding of Latin American business practices is unmatched. She bridges the cultural and accounting gap perfectly."
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": [
+        "Import/Export",
+        "Trading",
+        "Food Distribution",
+        "Manufacturing"
+      ]
+    },
+    {
+      "id": "bb-012",
+      "name": "Rachel Goldstein",
+      "location": "New York, NY, USA",
+      "remote": true,
+      "languages": [
+        "English",
+        "Hebrew"
+      ],
+      "specializations": [
+        "Tech Startups",
+        "SaaS Companies",
+        "Venture-Backed Businesses"
+      ],
+      "experience_years": 11,
+      "certifications": [
+        "CPA (New York)",
+        "QuickBooks Advanced"
+      ],
+      "tier": "scaling",
+      "pricing": {
+        "range": "$800-$1,500",
+        "currency": "USD",
+        "frequency": "monthly",
+        "setup_fee": "$500",
+        "includes": [
+          "Startup-specific accounting",
+          "Cap table support",
+          "Angel/VC reporting",
+          "Monthly projections"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Carta",
+        "Carta Pro"
+      ],
+      "payroll_capable": true,
+      "payroll_details": "Startup payroll with equity tracking",
+      "reviews": {
+        "average_rating": 4.97,
+        "total_reviews": 89,
+        "recent_quote": "Rachel understands venture-backed business finance better than most CFOs. Game-changer for our Series A."
+      },
+      "availability": "Limited - 1-2 week wait",
+      "free_consultation": true,
+      "industries_served": [
+        "Tech Startups",
+        "SaaS",
+        "FinTech",
+        "Digital Platforms"
+      ]
+    },
+    {
+      "id": "bb-013",
+      "name": "Lisa Chen",
+      "location": "San Francisco, CA, USA",
+      "remote": true,
+      "languages": [
+        "English",
+        "Mandarin",
+        "Cantonese"
+      ],
+      "specializations": [
+        "Ecommerce",
+        "Direct-to-Consumer Brands",
+        "Amazon Sellers"
+      ],
+      "experience_years": 9,
+      "certifications": [
+        "CPA (California)",
+        "Xero Advanced"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "$400-$700",
+        "currency": "USD",
+        "frequency": "monthly",
+        "setup_fee": "$300",
+        "includes": [
+          "Ecommerce-specific accounting",
+          "Platform reconciliation",
+          "Amazon analytics",
+          "Inventory costing"
+        ]
+      },
+      "software_expertise": [
+        "Xero",
+        "QuickBooks Online",
+        "Shopify",
+        "WooCommerce",
+        "Amazon Seller Central"
+      ],
+      "payroll_capable": true,
+      "payroll_details": "Small team payroll",
+      "reviews": {
+        "average_rating": 4.89,
+        "total_reviews": 94,
+        "recent_quote": "Lisa helped us identify that our bestseller was actually our lowest-margin product. Complete game-changer for inventory strategy."
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": [
+        "Ecommerce",
+        "DTC Brands",
+        "Amazon Sellers",
+        "Dropshipping"
+      ]
+    },
+    {
+      "id": "bb-014",
+      "name": "Diane Watson",
+      "location": "Dallas, Texas, USA",
+      "remote": true,
+      "languages": [
+        "English"
+      ],
+      "specializations": [
+        "Energy Sector",
+        "Oil & Gas Support",
+        "Manufacturing"
+      ],
+      "experience_years": 19,
+      "certifications": [
+        "CPA (Texas)",
+        "Certified Management Accountant (CMA)"
+      ],
+      "tier": "scaling",
+      "pricing": {
+        "range": "$700-$1,200",
+        "currency": "USD",
+        "frequency": "monthly",
+        "setup_fee": "$400",
+        "includes": [
+          "Industry-specific accounting",
+          "Project costing",
+          "Equipment depreciation"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Enterprise",
+        "Xero",
+        "IQMS"
+      ],
+      "payroll_capable": true,
+      "payroll_details": "Large payroll with field staff tracking",
+      "reviews": {
+        "average_rating": 4.91,
+        "total_reviews": 41,
+        "recent_quote": "Diane's 20 years in energy sector accounting means she knows our business cold. No learning curve, immediate expertise."
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": [
+        "Energy",
+        "Manufacturing",
+        "Oil & Gas Services",
+        "Construction"
+      ]
+    },
+    {
+      "id": "bb-015",
+      "name": "Angela Morales",
+      "location": "Los Angeles, CA, USA",
+      "remote": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "specializations": [
+        "Entertainment",
+        "Freelance Creatives",
+        "Production Companies"
+      ],
+      "experience_years": 12,
+      "certifications": [
+        "CPA (California)",
+        "Entertainment Accounting Specialist"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "$500-$900",
+        "currency": "USD",
+        "frequency": "monthly",
+        "setup_fee": "$350",
+        "includes": [
+          "Project-based accounting",
+          "Union requirement tracking",
+          "1099 contractor management"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Movie Magic Budgeting"
+      ],
+      "payroll_capable": true,
+      "payroll_details": "Entertainment industry payroll with union compliance",
+      "reviews": {
+        "average_rating": 4.88,
+        "total_reviews": 56,
+        "recent_quote": "Angela knows the film and TV business inside out. She's caught union requirement issues other accountants miss completely."
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": [
+        "Entertainment",
+        "Film Production",
+        "Music",
+        "Freelance Creatives"
+      ]
+    },
+    {
+      "id": "bb-016",
+      "name": "Maria Rodriguez",
+      "location": "Phoenix, Arizona, USA",
+      "remote": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "specializations": [
+        "Retail",
+        "Boutiques",
+        "Small Chains"
+      ],
+      "experience_years": 10,
+      "certifications": [
+        "CPA (Arizona)"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "$350-$600",
+        "currency": "USD",
+        "frequency": "monthly",
+        "setup_fee": "$250",
+        "includes": [
+          "Inventory tracking",
+          "POS integration",
+          "Seasonal analysis",
+          "Month-to-month reporting"
+        ]
+      },
+      "software_expertise": [
+        "Xero",
+        "QuickBooks Online",
+        "Square",
+        "Shopify"
+      ],
+      "payroll_capable": true,
+      "payroll_details": "Retail staff payroll",
+      "reviews": {
+        "average_rating": 4.86,
+        "total_reviews": 73,
+        "recent_quote": "Maria helped us figure out which locations are actually profitable. We closed one location and doubled profits."
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": [
+        "Retail",
+        "Boutiques",
+        "Fashion",
+        "Home Goods"
+      ]
+    },
+    {
+      "id": "bb-017",
+      "name": "Jennifer Park",
+      "location": "Seattle, Washington, USA",
+      "remote": true,
+      "languages": [
+        "English",
+        "Korean"
+      ],
+      "specializations": [
+        "Coffee/Food Service",
+        "Hospitality",
+        "Catering"
+      ],
+      "experience_years": 14,
+      "certifications": [
+        "CPA (Washington)",
+        "Culinary Business Specialist"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "$450-$800",
+        "currency": "USD",
+        "frequency": "monthly",
+        "setup_fee": "$300",
+        "includes": [
+          "Food cost analysis",
+          "Labor percentage tracking",
+          "Seasonal menu costing"
+        ]
+      },
+      "software_expertise": [
+        "Xero",
+        "QuickBooks Online",
+        "Toast POS"
+      ],
+      "payroll_capable": true,
+      "payroll_details": "Food service payroll with tip tracking",
+      "reviews": {
+        "average_rating": 4.92,
+        "total_reviews": 58,
+        "recent_quote": "Jennifer helped us see that we were losing money on catering. Now it's our most profitable service."
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": [
+        "Coffee Shops",
+        "Restaurants",
+        "Catering",
+        "Food Trucks"
+      ]
+    },
+    {
+      "id": "bb-018",
+      "name": "Rebecca Klein",
+      "location": "Boston, Massachusetts, USA",
+      "remote": true,
+      "languages": [
+        "English"
+      ],
+      "specializations": [
+        "Healthcare",
+        "Medical Practices",
+        "Dentistry"
+      ],
+      "experience_years": 17,
+      "certifications": [
+        "CPA (Massachusetts)",
+        "Medical Practice Accounting Specialist"
+      ],
+      "tier": "scaling",
+      "pricing": {
+        "range": "$600-$1,000",
+        "currency": "USD",
+        "frequency": "monthly",
+        "setup_fee": "$400",
+        "includes": [
+          "HIPAA-compliant accounting",
+          "Insurance claim tracking",
+          "Provider compensation tracking"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Kareo",
+        "Dentrix"
+      ],
+      "payroll_capable": true,
+      "payroll_details": "Medical staff payroll with malpractice insurance tracking",
+      "reviews": {
+        "average_rating": 4.95,
+        "total_reviews": 43,
+        "recent_quote": "Rebecca understands healthcare accounting complexity. She organized our insurance claim tracking and helped us recover $25K in missed claims."
+      },
+      "availability": "Limited - 3 week wait",
+      "free_consultation": true,
+      "industries_served": [
+        "Medical Practices",
+        "Dentistry",
+        "Physical Therapy",
+        "Mental Health"
+      ]
+    },
+    {
+      "id": "bb-019",
+      "name": "Stephanie Lee",
+      "location": "Chicago, Illinois, USA",
+      "remote": true,
+      "languages": [
+        "English",
+        "Tagalog"
+      ],
+      "specializations": [
+        "Nonprofit Management",
+        "Grant Administration",
+        "Fundraising Organizations"
+      ],
+      "experience_years": 13,
+      "certifications": [
+        "CPA (Illinois)",
+        "Nonprofit Finance Specialist"
+      ],
+      "tier": "scaling",
+      "pricing": {
+        "range": "$500-$900",
+        "currency": "USD",
+        "frequency": "monthly",
+        "setup_fee": "$350",
+        "includes": [
+          "Grant accounting",
+          "Fund tracking",
+          "Form 990 prep",
+          "Audit support"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Nonprofit",
+        "Xero",
+        "Donorbox"
+      ],
+      "payroll_capable": true,
+      "payroll_details": "Nonprofit payroll",
+      "reviews": {
+        "average_rating": 4.94,
+        "total_reviews": 51,
+        "recent_quote": "Stephanie's grant accounting expertise was invaluable when we received a $500K foundation grant. She made compliance effortless."
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": [
+        "Nonprofits",
+        "Grant-Funded Organizations",
+        "Community Services",
+        "Foundations"
+      ]
+    },
+    {
+      "id": "bb-020",
+      "name": "Courtney Harris",
+      "location": "Atlanta, Georgia, USA",
+      "remote": true,
+      "languages": [
+        "English"
+      ],
+      "specializations": [
+        "Coaching/Consulting",
+        "Personal Brand Businesses",
+        "Digital Products"
+      ],
+      "experience_years": 7,
+      "certifications": [
+        "CPA (Georgia)"
+      ],
+      "tier": "starter",
+      "pricing": {
+        "range": "$250-$450",
+        "currency": "USD",
+        "frequency": "monthly",
+        "setup_fee": "$150",
+        "includes": [
+          "Service-based accounting",
+          "Client invoicing",
+          "Expense tracking",
+          "Tax planning"
+        ]
+      },
+      "software_expertise": [
+        "Xero",
+        "QuickBooks Online",
+        "FreshBooks"
+      ],
+      "payroll_capable": false,
+      "reviews": {
+        "average_rating": 4.87,
+        "total_reviews": 34,
+        "recent_quote": "Courtney made it so easy to track my multiple revenue streams. I finally know what each offer actually makes."
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": [
+        "Coaching",
+        "Consulting",
+        "Digital Products",
+        "Online Courses"
+      ]
+    },
+    {
+      "id": "bb-021",
+      "name": "Natalie Bouchard",
+      "location": "Montreal, Quebec, Canada",
+      "remote": true,
+      "languages": [
+        "French",
+        "English"
+      ],
+      "specializations": [
+        "French-Canadian Businesses",
+        "Bilingual Accounting",
+        "Quebec Tax"
+      ],
+      "experience_years": 14,
+      "certifications": [
+        "CPA, CA (Quebec)"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "CAD $280-$450",
+        "currency": "CAD",
+        "frequency": "monthly",
+        "setup_fee": "CAD $300",
+        "includes": [
+          "Bilingual accounting",
+          "Quebec tax compliance",
+          "QST expertise"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Sage"
+      ],
+      "payroll_capable": true,
+      "payroll_details": "Quebec payroll with QST/GST",
+      "reviews": {
+        "average_rating": 4.9,
+        "total_reviews": 44,
+        "recent_quote": "Natalie's bilingual expertise and deep Quebec tax knowledge saved us thousands on compliance and tax planning."
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": [
+        "Service Businesses",
+        "Professional Services",
+        "Retail",
+        "Manufacturing"
+      ]
+    },
+    {
+      "id": "bb-022",
+      "name": "David Kumar",
+      "location": "Calgary, Alberta, Canada",
+      "remote": true,
+      "languages": [
+        "English",
+        "Hindi"
+      ],
+      "specializations": [
+        "Energy Sector",
+        "Oil & Gas Services",
+        "Construction"
+      ],
+      "experience_years": 18,
+      "certifications": [
+        "CPA, CA (Alberta)"
+      ],
+      "tier": "scaling",
+      "pricing": {
+        "range": "CAD $600-$1,000",
+        "currency": "CAD",
+        "frequency": "monthly",
+        "setup_fee": "CAD $400",
+        "includes": [
+          "Energy sector expertise",
+          "Equipment costing",
+          "Project accounting"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Enterprise",
+        "Xero",
+        "Sage"
+      ],
+      "payroll_capable": true,
+      "payroll_details": "Complex payroll with field staff",
+      "reviews": {
+        "average_rating": 4.93,
+        "total_reviews": 38,
+        "recent_quote": "David's understanding of Alberta energy accounting is exceptional. He identified $50K in equipment depreciation errors."
+      },
+      "availability": "Limited - highly sought",
+      "free_consultation": true,
+      "industries_served": [
+        "Energy",
+        "Oil & Gas",
+        "Construction",
+        "Manufacturing"
+      ]
+    },
+    {
+      "id": "bb-023",
+      "name": "Meera Kapoor",
+      "location": "Edmonton, Alberta, Canada",
+      "remote": true,
+      "languages": [
+        "English",
+        "Punjabi"
+      ],
+      "specializations": [
+        "Small Business",
+        "South Asian Entrepreneurs",
+        "Retail & Services"
+      ],
+      "experience_years": 8,
+      "certifications": [
+        "CPA, CMA (Alberta)"
+      ],
+      "tier": "starter",
+      "pricing": {
+        "range": "CAD $150-$280",
+        "currency": "CAD",
+        "frequency": "monthly",
+        "setup_fee": "CAD $150",
+        "includes": [
+          "Basic bookkeeping",
+          "Monthly reporting",
+          "Tax planning"
+        ]
+      },
+      "software_expertise": [
+        "Xero",
+        "QuickBooks Online",
+        "Wave"
+      ],
+      "payroll_capable": true,
+      "payroll_details": "Small business payroll",
+      "reviews": {
+        "average_rating": 4.85,
+        "total_reviews": 29,
+        "recent_quote": "Meera is wonderful! She understands my culture and business. Makes accounting accessible and stress-free."
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": [
+        "Retail",
+        "Food Service",
+        "Professional Services",
+        "Family Businesses"
+      ]
+    },
+    {
+      "id": "bb-024",
+      "name": "Kristin MacDonald",
+      "location": "Halifax, Nova Scotia, Canada",
+      "remote": true,
+      "languages": [
+        "English"
+      ],
+      "specializations": [
+        "Maritime Businesses",
+        "Fishing Industry",
+        "Tourism"
+      ],
+      "experience_years": 11,
+      "certifications": [
+        "CPA, CA (Nova Scotia)"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "CAD $200-$350",
+        "currency": "CAD",
+        "frequency": "monthly",
+        "setup_fee": "CAD $180",
+        "includes": [
+          "Industry-specific accounting",
+          "Seasonal business management"
+        ]
+      },
+      "software_expertise": [
+        "Xero",
+        "QuickBooks Online",
+        "Sage"
+      ],
+      "payroll_capable": true,
+      "payroll_details": "Small team payroll",
+      "reviews": {
+        "average_rating": 4.88,
+        "total_reviews": 22,
+        "recent_quote": "Kristin knows the maritime business. She helped us navigate seasonal cash flow challenges and tax credits we didn't know existed."
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": [
+        "Fishing",
+        "Tourism",
+        "Hospitality",
+        "Seasonal Businesses"
+      ]
+    },
+    {
+      "id": "bb-025",
+      "name": "Alejandra Flores",
+      "location": "Guadalajara, Mexico",
+      "remote": true,
+      "languages": [
+        "Spanish",
+        "English"
+      ],
+      "specializations": [
+        "SME Growth",
+        "Manufacturing Exports",
+        "Tequila & Agribusiness"
+      ],
+      "experience_years": 12,
+      "certifications": [
+        "Contador P\u00fablico",
+        "CFDI Expert"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "$120-$250",
+        "currency": "USD",
+        "frequency": "monthly",
+        "setup_fee": "$180",
+        "includes": [
+          "CFDI compliance",
+          "Export accounting",
+          "Tax planning"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Facturaci\u00f3n Electr\u00f3nica"
+      ],
+      "payroll_capable": true,
+      "payroll_details": "Mexican payroll with IMSS/ISPT",
+      "reviews": {
+        "average_rating": 4.89,
+        "total_reviews": 37,
+        "recent_quote": "Alejandra's export expertise helped us expand to the US market. She handled all the compliance beautifully."
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": [
+        "Manufacturing",
+        "Export/Import",
+        "Agribusiness",
+        "Artisanal Production"
+      ]
+    },
+    {
+      "id": "bb-026",
+      "name": "Gabriela Vargas",
+      "location": "Monterrey, Mexico",
+      "remote": true,
+      "languages": [
+        "Spanish",
+        "English"
+      ],
+      "specializations": [
+        "Industrial Businesses",
+        "Family Enterprises",
+        "Retail Expansion"
+      ],
+      "experience_years": 16,
+      "certifications": [
+        "Contador P\u00fablico",
+        "Advanced QuickBooks"
+      ],
+      "tier": "scaling",
+      "pricing": {
+        "range": "$200-$400",
+        "currency": "USD",
+        "frequency": "monthly",
+        "setup_fee": "$250",
+        "includes": [
+          "Multi-location tracking",
+          "Complex tax planning",
+          "CFDI management"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Enterprise",
+        "Xero",
+        "CLIP"
+      ],
+      "payroll_capable": true,
+      "payroll_details": "Large payroll with complex taxes",
+      "reviews": {
+        "average_rating": 4.92,
+        "total_reviews": 42,
+        "recent_quote": "Gabriela helped us transition from family accounting to professional bookkeeping for a major expansion. Seamless process."
+      },
+      "availability": "Limited - 2 week wait",
+      "free_consultation": true,
+      "industries_served": [
+        "Industrial",
+        "Manufacturing",
+        "Retail Chains",
+        "Family Businesses"
+      ]
+    },
+    {
+      "id": "bb-027",
+      "name": "Rosa Isabel Mendoza",
+      "location": "Cancun, Mexico",
+      "remote": true,
+      "languages": [
+        "Spanish",
+        "English"
+      ],
+      "specializations": [
+        "Tourism",
+        "Hotels",
+        "Restaurants",
+        "Beach Resorts"
+      ],
+      "experience_years": 10,
+      "certifications": [
+        "Contador P\u00fablico",
+        "Tourism Accounting Specialist"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "$150-$300",
+        "currency": "USD",
+        "frequency": "monthly",
+        "setup_fee": "$200",
+        "includes": [
+          "Seasonal revenue tracking",
+          "Tourism tax compliance"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "OPERA"
+      ],
+      "payroll_capable": true,
+      "payroll_details": "Tourism industry payroll",
+      "reviews": {
+        "average_rating": 4.87,
+        "total_reviews": 33,
+        "recent_quote": "Rosa's understanding of seasonal tourism accounting was exactly what we needed for our hotel expansion."
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": [
+        "Tourism",
+        "Hotels",
+        "Resorts",
+        "Food & Beverage"
+      ]
+    },
+    {
+      "id": "bb-028",
+      "name": "Mariana Silva",
+      "location": "S\u00e3o Paulo, Brazil",
+      "remote": true,
+      "languages": [
+        "Portuguese",
+        "English",
+        "Spanish"
+      ],
+      "specializations": [
+        "Tech Startups",
+        "Digital Businesses",
+        "SaaS"
+      ],
+      "experience_years": 9,
+      "certifications": [
+        "Contadora P\u00fablica (Brazil)",
+        "Tech Business Specialist"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "R$ 1,500-2,500",
+        "currency": "BRL",
+        "frequency": "monthly",
+        "setup_fee": "R$ 1,200",
+        "includes": [
+          "Tech startup accounting",
+          "Investment tracking"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Neon"
+      ],
+      "payroll_capable": true,
+      "payroll_details": "Brazilian payroll with INSS/IR",
+      "reviews": {
+        "average_rating": 4.88,
+        "total_reviews": 39,
+        "recent_quote": "Mariana helped us navigate Brazilian startup taxes. The expertise saved us from major compliance issues."
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": [
+        "Tech Startups",
+        "Digital Businesses",
+        "SaaS",
+        "Software"
+      ]
+    },
+    {
+      "id": "bb-029",
+      "name": "Felipe Garc\u00eda",
+      "location": "Bogot\u00e1, Colombia",
+      "remote": true,
+      "languages": [
+        "Spanish",
+        "English"
+      ],
+      "specializations": [
+        "Coffee Producers",
+        "Agricultural Exports",
+        "SME Growth"
+      ],
+      "experience_years": 14,
+      "certifications": [
+        "Contador P\u00fablico Colombiano",
+        "Agricultural Accounting Specialist"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "$150-$280",
+        "currency": "USD",
+        "frequency": "monthly",
+        "setup_fee": "$180",
+        "includes": [
+          "Agricultural accounting",
+          "Export documentation"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Contaplus"
+      ],
+      "payroll_capable": true,
+      "payroll_details": "Colombian payroll with EPS/AFP",
+      "reviews": {
+        "average_rating": 4.9,
+        "total_reviews": 36,
+        "recent_quote": "Felipe's agricultural export expertise was crucial for our coffee business expansion to North America."
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": [
+        "Agricultural",
+        "Coffee Exports",
+        "SMEs",
+        "Trading"
+      ]
+    },
+    {
+      "id": "bb-030",
+      "name": "Catalina Morales",
+      "location": "Santiago, Chile",
+      "remote": true,
+      "languages": [
+        "Spanish",
+        "English"
+      ],
+      "specializations": [
+        "Wine Industry",
+        "Agriculture",
+        "Food Production"
+      ],
+      "experience_years": 13,
+      "certifications": [
+        "Contador P\u00fablico Chileno",
+        "Wine Industry Specialist"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "$180-$320",
+        "currency": "USD",
+        "frequency": "monthly",
+        "setup_fee": "$220",
+        "includes": [
+          "Wine industry accounting",
+          "Harvest cycle management"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Legajos"
+      ],
+      "payroll_capable": true,
+      "payroll_details": "Agricultural industry payroll",
+      "reviews": {
+        "average_rating": 4.91,
+        "total_reviews": 31,
+        "recent_quote": "Catalina's wine industry knowledge helped us optimize our accounting around the harvest season and export timing."
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": [
+        "Wine Production",
+        "Agriculture",
+        "Food & Beverage",
+        "Exports"
+      ]
+    },
+    {
+      "id": "bb-031",
+      "name": "Sophie Leclerc",
+      "location": "Paris, France",
+      "remote": true,
+      "languages": [
+        "French",
+        "English"
+      ],
+      "specializations": [
+        "Fashion Brands",
+        "Luxury Goods",
+        "Retail"
+      ],
+      "experience_years": 15,
+      "certifications": [
+        "Expertise Comptable (France)"
+      ],
+      "tier": "scaling",
+      "pricing": {
+        "range": "\u20ac450-\u20ac800",
+        "currency": "EUR",
+        "frequency": "monthly",
+        "setup_fee": "\u20ac300",
+        "includes": [
+          "Fashion industry expertise",
+          "Collection cycle accounting"
+        ]
+      },
+      "software_expertise": [
+        "Xero",
+        "Sage",
+        "Dimo Accounting"
+      ],
+      "payroll_capable": true,
+      "payroll_details": "French payroll with RSC/urssaf",
+      "reviews": {
+        "average_rating": 4.92,
+        "total_reviews": 45,
+        "recent_quote": "Sophie's fashion industry experience is invaluable. She helped us structure our wholesale and retail accounting."
+      },
+      "availability": "Limited - 2 week wait",
+      "free_consultation": true,
+      "industries_served": [
+        "Fashion",
+        "Luxury Goods",
+        "Retail",
+        "E-commerce"
+      ]
+    },
+    {
+      "id": "bb-032",
+      "name": "Klaus Mueller",
+      "location": "Berlin, Germany",
+      "remote": true,
+      "languages": [
+        "German",
+        "English"
+      ],
+      "specializations": [
+        "Manufacturing",
+        "Engineering",
+        "Industrial"
+      ],
+      "experience_years": 18,
+      "certifications": [
+        "Steuerberat (Tax Advisor)",
+        "Wirtschaftspr\u00fcfer (Auditor)"
+      ],
+      "tier": "scaling",
+      "pricing": {
+        "range": "\u20ac500-\u20ac900",
+        "currency": "EUR",
+        "frequency": "monthly",
+        "setup_fee": "\u20ac400",
+        "includes": [
+          "Manufacturing accounting",
+          "Equipment depreciation",
+          "German tax compliance"
+        ]
+      },
+      "software_expertise": [
+        "DATEV",
+        "Xero",
+        "SAP"
+      ],
+      "payroll_capable": true,
+      "payroll_details": "German payroll with Sozialversicherung",
+      "reviews": {
+        "average_rating": 4.94,
+        "total_reviews": 52,
+        "recent_quote": "Klaus's German tax knowledge and manufacturing experience are unmatched. He saved us \u20ac30K in tax planning."
+      },
+      "availability": "Limited - highly sought",
+      "free_consultation": true,
+      "industries_served": [
+        "Manufacturing",
+        "Engineering",
+        "Industrial",
+        "Automotive"
+      ]
+    },
+    {
+      "id": "bb-033",
+      "name": "Elena Rossi",
+      "location": "Milan, Italy",
+      "remote": true,
+      "languages": [
+        "Italian",
+        "English"
+      ],
+      "specializations": [
+        "Design Firms",
+        "Architecture",
+        "Creative Industries"
+      ],
+      "experience_years": 11,
+      "certifications": [
+        "Commercialista (Italy)",
+        "Design Industry Specialist"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "\u20ac350-\u20ac650",
+        "currency": "EUR",
+        "frequency": "monthly",
+        "setup_fee": "\u20ac250",
+        "includes": [
+          "Design industry accounting",
+          "Project costing"
+        ]
+      },
+      "software_expertise": [
+        "Xero",
+        "Ge.I.Co",
+        "Fatture"
+      ],
+      "payroll_capable": true,
+      "payroll_details": "Italian design industry payroll",
+      "reviews": {
+        "average_rating": 4.87,
+        "total_reviews": 28,
+        "recent_quote": "Elena understands the design business perfectly. She helped us track profitability by project type."
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": [
+        "Design",
+        "Architecture",
+        "Creative Services",
+        "Fashion Design"
+      ]
+    },
+    {
+      "id": "bb-034",
+      "name": "Anna de Vries",
+      "location": "Amsterdam, Netherlands",
+      "remote": true,
+      "languages": [
+        "Dutch",
+        "English",
+        "German"
+      ],
+      "specializations": [
+        "Tech Companies",
+        "Startups",
+        "International Business"
+      ],
+      "experience_years": 10,
+      "certifications": [
+        "Register Accountant (RA)",
+        "International Accounting Specialist"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "\u20ac400-\u20ac700",
+        "currency": "EUR",
+        "frequency": "monthly",
+        "setup_fee": "\u20ac300",
+        "includes": [
+          "Startup-friendly accounting",
+          "International invoicing",
+          "VAT optimization"
+        ]
+      },
+      "software_expertise": [
+        "Exact Online",
+        "Xero",
+        "MoneyMonk"
+      ],
+      "payroll_capable": true,
+      "payroll_details": "Dutch and international payroll",
+      "reviews": {
+        "average_rating": 4.9,
+        "total_reviews": 41,
+        "recent_quote": "Anna's understanding of international VAT rules helped us optimize pricing across European markets."
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": [
+        "Tech",
+        "Startups",
+        "Software",
+        "International Business"
+      ]
+    },
+    {
+      "id": "bb-035",
+      "name": "Agata Kowalski",
+      "location": "Warsaw, Poland",
+      "remote": true,
+      "languages": [
+        "Polish",
+        "English"
+      ],
+      "specializations": [
+        "E-commerce",
+        "Digital Businesses",
+        "SME Growth"
+      ],
+      "experience_years": 8,
+      "certifications": [
+        "Bieg\u0142y Rewident (Poland)"
+      ],
+      "tier": "starter",
+      "pricing": {
+        "range": "\u20ac150-\u20ac280",
+        "currency": "EUR",
+        "frequency": "monthly",
+        "setup_fee": "\u20ac120",
+        "includes": [
+          "E-commerce accounting",
+          "Monthly reporting"
+        ]
+      },
+      "software_expertise": [
+        "Xero",
+        "Wave",
+        "Fakturownia"
+      ],
+      "payroll_capable": true,
+      "payroll_details": "Polish payroll",
+      "reviews": {
+        "average_rating": 4.84,
+        "total_reviews": 22,
+        "recent_quote": "Agata is professional and affordable. She helped us get organized as we scaled our online business."
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": [
+        "E-commerce",
+        "Digital Businesses",
+        "SMEs",
+        "Services"
+      ]
+    },
+    {
+      "id": "bb-036",
+      "name": "Thandi Nyathi",
+      "location": "Johannesburg, South Africa",
+      "remote": true,
+      "languages": [
+        "English",
+        "Zulu"
+      ],
+      "specializations": [
+        "Manufacturing",
+        "Distribution",
+        "SME Growth"
+      ],
+      "experience_years": 13,
+      "certifications": [
+        "CA (South Africa)"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "R 4,500-7,500",
+        "currency": "ZAR",
+        "frequency": "monthly",
+        "setup_fee": "R 3,000",
+        "includes": [
+          "Manufacturing accounting",
+          "BEE compliance",
+          "Local tax expertise"
+        ]
+      },
+      "software_expertise": [
+        "Xero",
+        "QuickBooks Online",
+        "Sage"
+      ],
+      "payroll_capable": true,
+      "payroll_details": "South African payroll with SARS compliance",
+      "reviews": {
+        "average_rating": 4.91,
+        "total_reviews": 34,
+        "recent_quote": "Thandi's understanding of South African manufacturing accounting and BEE requirements was instrumental to our growth strategy."
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": [
+        "Manufacturing",
+        "Distribution",
+        "Retail",
+        "Services"
+      ]
+    },
+    {
+      "id": "bb-037",
+      "name": "Njeri Kimani",
+      "location": "Nairobi, Kenya",
+      "remote": true,
+      "languages": [
+        "English",
+        "Swahili"
+      ],
+      "specializations": [
+        "Tech Startups",
+        "Agriculture",
+        "NGO Sector"
+      ],
+      "experience_years": 9,
+      "certifications": [
+        "CPA (Kenya)"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "$200-$350",
+        "currency": "USD",
+        "frequency": "monthly",
+        "setup_fee": "$180",
+        "includes": [
+          "Startup accounting",
+          "NGO support",
+          "Agricultural finance"
+        ]
+      },
+      "software_expertise": [
+        "Xero",
+        "QuickBooks Online",
+        "Wave"
+      ],
+      "payroll_capable": true,
+      "payroll_details": "Kenyan payroll with PAYE",
+      "reviews": {
+        "average_rating": 4.88,
+        "total_reviews": 29,
+        "recent_quote": "Njeri's understanding of the Kenyan startup ecosystem and NGO accounting was invaluable for our growth."
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": [
+        "Tech Startups",
+        "Agriculture",
+        "NGOs",
+        "Social Enterprises"
+      ]
+    },
+    {
+      "id": "bb-038",
+      "name": "Adeyemi Ogunlade",
+      "location": "Lagos, Nigeria",
+      "remote": true,
+      "languages": [
+        "English",
+        "Yoruba"
+      ],
+      "specializations": [
+        "Import/Export",
+        "Trading",
+        "Financial Services"
+      ],
+      "experience_years": 12,
+      "certifications": [
+        "ICAN Member (Nigeria)"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "\u20a6250,000-450,000",
+        "currency": "NGN",
+        "frequency": "monthly",
+        "setup_fee": "\u20a6180,000",
+        "includes": [
+          "Import/export accounting",
+          "Currency management"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Wave"
+      ],
+      "payroll_capable": true,
+      "payroll_details": "Nigerian payroll with NHF/NHIS",
+      "reviews": {
+        "average_rating": 4.89,
+        "total_reviews": 25,
+        "recent_quote": "Adeyemi's import/export expertise helped us navigate complex currency fluctuations and maintain profitability."
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": [
+        "Import/Export",
+        "Trading",
+        "Manufacturing",
+        "Financial Services"
+      ]
+    },
+    {
+      "id": "bb-039",
+      "name": "Fatima Abdelrahman",
+      "location": "Cairo, Egypt",
+      "remote": true,
+      "languages": [
+        "Arabic",
+        "English"
+      ],
+      "specializations": [
+        "Retail",
+        "Food & Beverage",
+        "Tourism"
+      ],
+      "experience_years": 10,
+      "certifications": [
+        "Accountant Member (Egypt)"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "E\u00a3 3,000-5,000",
+        "currency": "EGP",
+        "frequency": "monthly",
+        "setup_fee": "E\u00a3 2,000",
+        "includes": [
+          "Retail accounting",
+          "Tourism industry support"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Wave"
+      ],
+      "payroll_capable": true,
+      "payroll_details": "Egyptian payroll with social insurance",
+      "reviews": {
+        "average_rating": 4.86,
+        "total_reviews": 20,
+        "recent_quote": "Fatima helped us navigate Egyptian retail accounting complexities. Professional and patient."
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": [
+        "Retail",
+        "Food & Beverage",
+        "Tourism",
+        "Hospitality"
+      ]
+    },
+    {
+      "id": "bb-040",
+      "name": "Ravi Shankar",
+      "location": "Delhi, India",
+      "remote": true,
+      "languages": [
+        "English",
+        "Hindi"
+      ],
+      "specializations": [
+        "Tech Companies",
+        "Software Development",
+        "IT Services"
+      ],
+      "experience_years": 11,
+      "certifications": [
+        "CA (India)",
+        "IT Business Specialist"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "\u20b918,000-35,000",
+        "currency": "INR",
+        "frequency": "monthly",
+        "setup_fee": "\u20b912,000",
+        "includes": [
+          "IT accounting",
+          "Export incentive tracking",
+          "Service tax compliance"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "TallyERP"
+      ],
+      "payroll_capable": true,
+      "payroll_details": "Indian IT industry payroll",
+      "reviews": {
+        "average_rating": 4.9,
+        "total_reviews": 37,
+        "recent_quote": "Ravi's IT industry expertise and understanding of export regulations were exactly what we needed."
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": [
+        "Software",
+        "IT Services",
+        "Tech",
+        "BPO"
+      ]
+    },
+    {
+      "id": "bb-041",
+      "name": "Priya Deshmukh",
+      "location": "Bangalore, India",
+      "remote": true,
+      "languages": [
+        "English",
+        "Kannada",
+        "Hindi"
+      ],
+      "specializations": [
+        "Startup Accounting",
+        "Venture-Backed Companies",
+        "Tech Founders"
+      ],
+      "experience_years": 8,
+      "certifications": [
+        "CA (India)"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "\u20b920,000-40,000",
+        "currency": "INR",
+        "frequency": "monthly",
+        "setup_fee": "\u20b915,000",
+        "includes": [
+          "Startup accounting",
+          "Funding documentation",
+          "Cap table management"
+        ]
+      },
+      "software_expertise": [
+        "Xero",
+        "QuickBooks Online",
+        "Carta"
+      ],
+      "payroll_capable": true,
+      "payroll_details": "Startup payroll with equity tracking",
+      "reviews": {
+        "average_rating": 4.89,
+        "total_reviews": 31,
+        "recent_quote": "Priya helped us prepare for Series A funding. Her accounting framework and documentation were exactly what investors wanted."
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": [
+        "Tech Startups",
+        "Venture-Backed",
+        "SaaS",
+        "Digital Platforms"
+      ]
+    },
+    {
+      "id": "bb-042",
+      "name": "Maria Santos",
+      "location": "Manila, Philippines",
+      "remote": true,
+      "languages": [
+        "English",
+        "Tagalog"
+      ],
+      "specializations": [
+        "BPO Services",
+        "Call Centers",
+        "Digital Marketing Agencies"
+      ],
+      "experience_years": 10,
+      "certifications": [
+        "CPA (Philippines)"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "\u20b118,000-32,000",
+        "currency": "PHP",
+        "frequency": "monthly",
+        "setup_fee": "\u20b112,000",
+        "includes": [
+          "BPO accounting",
+          "Multi-client tracking",
+          "Service tax compliance"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Wave"
+      ],
+      "payroll_capable": true,
+      "payroll_details": "Philippine BPO industry payroll",
+      "reviews": {
+        "average_rating": 4.87,
+        "total_reviews": 26,
+        "recent_quote": "Maria's understanding of BPO accounting and multi-client tracking was perfect for our expanding agency."
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": [
+        "BPO",
+        "Call Centers",
+        "Digital Marketing",
+        "Services"
+      ]
+    },
+    {
+      "id": "bb-043",
+      "name": "Thanh Nguyen",
+      "location": "Ho Chi Minh City, Vietnam",
+      "remote": true,
+      "languages": [
+        "Vietnamese",
+        "English"
+      ],
+      "specializations": [
+        "Manufacturing",
+        "Export Businesses",
+        "Supply Chain"
+      ],
+      "experience_years": 12,
+      "certifications": [
+        "Chief Accountant (Vietnam)"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "$150-$280",
+        "currency": "USD",
+        "frequency": "monthly",
+        "setup_fee": "$180",
+        "includes": [
+          "Manufacturing accounting",
+          "Export documentation",
+          "Vietnamese tax compliance"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "MISA"
+      ],
+      "payroll_capable": true,
+      "payroll_details": "Vietnamese manufacturing payroll",
+      "reviews": {
+        "average_rating": 4.88,
+        "total_reviews": 28,
+        "recent_quote": "Thanh's export expertise and understanding of Vietnamese regulations were invaluable for our expansion."
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": [
+        "Manufacturing",
+        "Export",
+        "Supply Chain",
+        "Trading"
+      ]
+    },
+    {
+      "id": "bb-044",
+      "name": "Pornpimol Chaisuwan",
+      "location": "Bangkok, Thailand",
+      "remote": true,
+      "languages": [
+        "Thai",
+        "English"
+      ],
+      "specializations": [
+        "Tourism",
+        "Hospitality",
+        "Food & Beverage"
+      ],
+      "experience_years": 11,
+      "certifications": [
+        "Certified Accounting Practitioner (Thailand)"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "\u0e3f15,000-28,000",
+        "currency": "THB",
+        "frequency": "monthly",
+        "setup_fee": "\u0e3f10,000",
+        "includes": [
+          "Tourism accounting",
+          "Seasonal revenue tracking"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Wave"
+      ],
+      "payroll_capable": true,
+      "payroll_details": "Thai tourism industry payroll",
+      "reviews": {
+        "average_rating": 4.86,
+        "total_reviews": 23,
+        "recent_quote": "Pornpimol's understanding of seasonal tourism accounting helped us plan cash flow effectively."
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": [
+        "Tourism",
+        "Hospitality",
+        "Hotels",
+        "Restaurants"
+      ]
+    },
+    {
+      "id": "bb-045",
+      "name": "Rajesh Chand",
+      "location": "Singapore",
+      "remote": true,
+      "languages": [
+        "English",
+        "Mandarin",
+        "Tamil"
+      ],
+      "specializations": [
+        "Financial Services",
+        "Trading",
+        "Regional Business"
+      ],
+      "experience_years": 14,
+      "certifications": [
+        "CA (Singapore)",
+        "ACCA"
+      ],
+      "tier": "scaling",
+      "pricing": {
+        "range": "SGD $800-1,400",
+        "currency": "SGD",
+        "frequency": "monthly",
+        "setup_fee": "SGD $600",
+        "includes": [
+          "Financial services accounting",
+          "Regional business structure"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Sage"
+      ],
+      "payroll_capable": true,
+      "payroll_details": "Singapore and regional payroll",
+      "reviews": {
+        "average_rating": 4.93,
+        "total_reviews": 39,
+        "recent_quote": "Rajesh's Singapore expertise and regional business knowledge made our regional expansion seamless."
+      },
+      "availability": "Limited - 1 week wait",
+      "free_consultation": true,
+      "industries_served": [
+        "Financial Services",
+        "Trading",
+        "Technology",
+        "Regional Businesses"
+      ]
+    },
+    {
+      "id": "bb-046",
+      "name": "Wang Liming",
+      "location": "Shanghai, China",
+      "remote": true,
+      "languages": [
+        "Mandarin",
+        "English"
+      ],
+      "specializations": [
+        "Manufacturing",
+        "Export Businesses",
+        "Trade Companies"
+      ],
+      "experience_years": 13,
+      "certifications": [
+        "Senior Accountant (China)"
+      ],
+      "tier": "scaling",
+      "pricing": {
+        "range": "\u00a56,000-10,000",
+        "currency": "CNY",
+        "frequency": "monthly",
+        "setup_fee": "\u00a54,000",
+        "includes": [
+          "Manufacturing accounting",
+          "Export documentation",
+          "China tax compliance"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Kingdee"
+      ],
+      "payroll_capable": true,
+      "payroll_details": "Chinese manufacturing payroll",
+      "reviews": {
+        "average_rating": 4.9,
+        "total_reviews": 34,
+        "recent_quote": "Liming's expertise in Chinese manufacturing accounting and export regulations was crucial for our growth."
+      },
+      "availability": "Limited - 2 week wait",
+      "free_consultation": true,
+      "industries_served": [
+        "Manufacturing",
+        "Export",
+        "Trading",
+        "Technology"
+      ]
+    },
+    {
+      "id": "bb-047",
+      "name": "Akiko Tanaka",
+      "location": "Tokyo, Japan",
+      "remote": true,
+      "languages": [
+        "Japanese",
+        "English"
+      ],
+      "specializations": [
+        "Tech Companies",
+        "Startups",
+        "Creative Industries"
+      ],
+      "experience_years": 9,
+      "certifications": [
+        "Certified Public Accountant (Japan)"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "\u00a5400,000-700,000",
+        "currency": "JPY",
+        "frequency": "monthly",
+        "setup_fee": "\u00a5300,000",
+        "includes": [
+          "Tech industry accounting",
+          "Startup support"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "freee"
+      ],
+      "payroll_capable": true,
+      "payroll_details": "Japanese startup payroll",
+      "reviews": {
+        "average_rating": 4.88,
+        "total_reviews": 27,
+        "recent_quote": "Akiko's understanding of Japanese startup culture and accounting practices is exceptional."
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": [
+        "Tech",
+        "Startups",
+        "Software",
+        "Creative Industries"
+      ]
+    },
+    {
+      "id": "bb-048",
+      "name": "James Wellington",
+      "location": "Auckland, New Zealand",
+      "remote": true,
+      "languages": [
+        "English"
+      ],
+      "specializations": [
+        "Agribusiness",
+        "Dairy Farming",
+        "Agricultural Exports"
+      ],
+      "experience_years": 15,
+      "certifications": [
+        "CA (New Zealand)",
+        "Agricultural Accounting Specialist"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "NZD $350-$600",
+        "currency": "NZD",
+        "frequency": "monthly",
+        "setup_fee": "NZD $300",
+        "includes": [
+          "Agribusiness accounting",
+          "Seasonal management",
+          "Export documentation"
+        ]
+      },
+      "software_expertise": [
+        "Xero",
+        "QuickBooks Online",
+        "MYOB"
+      ],
+      "payroll_capable": true,
+      "payroll_details": "Agricultural industry payroll",
+      "reviews": {
+        "average_rating": 4.91,
+        "total_reviews": 32,
+        "recent_quote": "James's understanding of dairy farming finances and export regulations was invaluable for our expansion."
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": [
+        "Agriculture",
+        "Dairy",
+        "Farming",
+        "Exports"
+      ]
+    },
+    {
+      "id": "bb-049",
+      "name": "Mohammed Al-Mazrouai",
+      "location": "Abu Dhabi, UAE",
+      "remote": true,
+      "languages": [
+        "Arabic",
+        "English"
+      ],
+      "specializations": [
+        "Contracting",
+        "Construction",
+        "Regional Projects"
+      ],
+      "experience_years": 16,
+      "certifications": [
+        "UAE Accounting Professional",
+        "Regional VAT Specialist"
+      ],
+      "tier": "scaling",
+      "pricing": {
+        "range": "AED 3,000-5,500",
+        "currency": "AED",
+        "frequency": "monthly",
+        "setup_fee": "AED 2,000",
+        "includes": [
+          "Construction accounting",
+          "Project costing",
+          "Regional VAT compliance"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "SAP"
+      ],
+      "payroll_capable": true,
+      "payroll_details": "UAE construction payroll with labor compliance",
+      "reviews": {
+        "average_rating": 4.92,
+        "total_reviews": 44,
+        "recent_quote": "Mohammed's understanding of Gulf construction accounting and labor regulations saved us significant compliance costs."
+      },
+      "availability": "Limited - 2 week wait",
+      "free_consultation": true,
+      "industries_served": [
+        "Construction",
+        "Contracting",
+        "Engineering",
+        "Regional Projects"
+      ]
+    },
+    {
+      "id": "bb-050",
+      "name": "Ruth Levin",
+      "location": "Tel Aviv, Israel",
+      "remote": true,
+      "languages": [
+        "Hebrew",
+        "English"
+      ],
+      "specializations": [
+        "Tech Startups",
+        "Life Sciences",
+        "Software Companies"
+      ],
+      "experience_years": 10,
+      "certifications": [
+        "CPA (Israel)"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "\u20aa3,500-6,500",
+        "currency": "ILS",
+        "frequency": "monthly",
+        "setup_fee": "\u20aa2,500",
+        "includes": [
+          "Startup accounting",
+          "Investment tracking",
+          "Israeli tax incentives"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Olive"
+      ],
+      "payroll_capable": true,
+      "payroll_details": "Israeli tech startup payroll",
+      "reviews": {
+        "average_rating": 4.89,
+        "total_reviews": 29,
+        "recent_quote": "Ruth's knowledge of Israeli tech incentives and startup accounting practices was invaluable for our Series B."
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": [
+        "Tech Startups",
+        "Life Sciences",
+        "Software",
+        "Biotech"
+      ]
+    },
+    {
+      "id": "bb-081",
+      "name": "Lucia Valdez",
+      "location": "Mendoza, Argentina",
+      "remote": true,
+      "languages": [
+        "Spanish",
+        "English"
+      ],
+      "specializations": [
+        "Healthcare Clinics"
+      ],
+      "experience_years": 9,
+      "certifications": [
+        "Local Certification (Argentina)"
+      ],
+      "tier": "starter",
+      "pricing": {
+        "range": "110-180",
+        "currency": "USD",
+        "frequency": "monthly",
+        "setup_fee": "66",
+        "includes": [
+          "Professional bookkeeping",
+          "Monthly reports",
+          "Tax support"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Wave"
+      ],
+      "payroll_capable": false,
+      "reviews": {
+        "average_rating": 4.859999999999999,
+        "total_reviews": 16,
+        "recent_quote": "Excellent bookkeeper with deep local market knowledge. Highly recommended!"
+      },
+      "availability": "Limited availability",
+      "free_consultation": true,
+      "industries_served": [
+        "Healthcare Clinics",
+        "Small Business",
+        "Services"
+      ]
+    },
+    {
+      "id": "bb-082",
+      "name": "Thomas Erikson",
+      "location": "Gothenburg, Sweden",
+      "remote": true,
+      "languages": [
+        "Swedish",
+        "English"
+      ],
+      "specializations": [
+        "Clean Tech"
+      ],
+      "experience_years": 10,
+      "certifications": [
+        "Local Certification (Sweden)"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "4000-7000",
+        "currency": "SEK",
+        "frequency": "monthly",
+        "setup_fee": "2400",
+        "includes": [
+          "Professional bookkeeping",
+          "Monthly reports",
+          "Tax support"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Wave"
+      ],
+      "payroll_capable": true,
+      "reviews": {
+        "average_rating": 4.869999999999999,
+        "total_reviews": 17,
+        "recent_quote": "Excellent bookkeeper with deep local market knowledge. Highly recommended!"
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": [
+        "Clean Tech",
+        "Small Business",
+        "Services"
+      ]
+    },
+    {
+      "id": "bb-083",
+      "name": "Amara Adewale",
+      "location": "Kano, Nigeria",
+      "remote": true,
+      "languages": [
+        "English",
+        "English"
+      ],
+      "specializations": [
+        "Textile Exports"
+      ],
+      "experience_years": 11,
+      "certifications": [
+        "Local Certification (Nigeria)"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "250000-400000",
+        "currency": "NGN",
+        "frequency": "monthly",
+        "setup_fee": "150000",
+        "includes": [
+          "Professional bookkeeping",
+          "Monthly reports",
+          "Tax support"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Wave"
+      ],
+      "payroll_capable": false,
+      "reviews": {
+        "average_rating": 4.88,
+        "total_reviews": 18,
+        "recent_quote": "Excellent bookkeeper with deep local market knowledge. Highly recommended!"
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": [
+        "Textile Exports",
+        "Small Business",
+        "Services"
+      ]
+    },
+    {
+      "id": "bb-084",
+      "name": "Dmitri Volkov",
+      "location": "Moscow, Russia",
+      "remote": true,
+      "languages": [
+        "Russian",
+        "English"
+      ],
+      "specializations": [
+        "Tech Startups"
+      ],
+      "experience_years": 12,
+      "certifications": [
+        "Local Certification (Russia)"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "25000-45000",
+        "currency": "RUB",
+        "frequency": "monthly",
+        "setup_fee": "15000",
+        "includes": [
+          "Professional bookkeeping",
+          "Monthly reports",
+          "Tax support"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Wave"
+      ],
+      "payroll_capable": true,
+      "reviews": {
+        "average_rating": 4.89,
+        "total_reviews": 19,
+        "recent_quote": "Excellent bookkeeper with deep local market knowledge. Highly recommended!"
+      },
+      "availability": "Limited availability",
+      "free_consultation": true,
+      "industries_served": [
+        "Tech Startups",
+        "Small Business",
+        "Services"
+      ]
+    },
+    {
+      "id": "bb-085",
+      "name": "Yuki Yamamoto",
+      "location": "Fukuoka, Japan",
+      "remote": true,
+      "languages": [
+        "Japanese",
+        "English"
+      ],
+      "specializations": [
+        "Manufacturing"
+      ],
+      "experience_years": 13,
+      "certifications": [
+        "Local Certification (Japan)"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "400000-700000",
+        "currency": "JPY",
+        "frequency": "monthly",
+        "setup_fee": "240000",
+        "includes": [
+          "Professional bookkeeping",
+          "Monthly reports",
+          "Tax support"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Wave"
+      ],
+      "payroll_capable": false,
+      "reviews": {
+        "average_rating": 4.8999999999999995,
+        "total_reviews": 20,
+        "recent_quote": "Excellent bookkeeper with deep local market knowledge. Highly recommended!"
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": [
+        "Manufacturing",
+        "Small Business",
+        "Services"
+      ]
+    },
+    {
+      "id": "bb-086",
+      "name": "Fatima Al-Mansouri",
+      "location": "Sharjah, UAE",
+      "remote": true,
+      "languages": [
+        "Arabic",
+        "English"
+      ],
+      "specializations": [
+        "Real Estate"
+      ],
+      "experience_years": 14,
+      "certifications": [
+        "Local Certification (UAE)"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "2500-4500",
+        "currency": "AED",
+        "frequency": "monthly",
+        "setup_fee": "1500",
+        "includes": [
+          "Professional bookkeeping",
+          "Monthly reports",
+          "Tax support"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Wave"
+      ],
+      "payroll_capable": true,
+      "reviews": {
+        "average_rating": 4.909999999999999,
+        "total_reviews": 21,
+        "recent_quote": "Excellent bookkeeper with deep local market knowledge. Highly recommended!"
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": [
+        "Real Estate",
+        "Small Business",
+        "Services"
+      ]
+    },
+    {
+      "id": "bb-087",
+      "name": "Carlos Mendoza",
+      "location": "Guadalajara, Mexico",
+      "remote": true,
+      "languages": [
+        "Spanish",
+        "English"
+      ],
+      "specializations": [
+        "Agribusiness"
+      ],
+      "experience_years": 15,
+      "certifications": [
+        "Local Certification (Mexico)"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "130-240",
+        "currency": "USD",
+        "frequency": "monthly",
+        "setup_fee": "78",
+        "includes": [
+          "Professional bookkeeping",
+          "Monthly reports",
+          "Tax support"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Wave"
+      ],
+      "payroll_capable": false,
+      "reviews": {
+        "average_rating": 4.92,
+        "total_reviews": 22,
+        "recent_quote": "Excellent bookkeeper with deep local market knowledge. Highly recommended!"
+      },
+      "availability": "Limited availability",
+      "free_consultation": true,
+      "industries_served": [
+        "Agribusiness",
+        "Small Business",
+        "Services"
+      ]
+    },
+    {
+      "id": "bb-088",
+      "name": "Patricia S\u00e1nchez",
+      "location": "Valencia, Spain",
+      "remote": true,
+      "languages": [
+        "Spanish",
+        "English"
+      ],
+      "specializations": [
+        "Maritime Trade"
+      ],
+      "experience_years": 8,
+      "certifications": [
+        "Local Certification (Spain)"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "350-600",
+        "currency": "EUR",
+        "frequency": "monthly",
+        "setup_fee": "210",
+        "includes": [
+          "Professional bookkeeping",
+          "Monthly reports",
+          "Tax support"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Wave"
+      ],
+      "payroll_capable": true,
+      "reviews": {
+        "average_rating": 4.93,
+        "total_reviews": 23,
+        "recent_quote": "Excellent bookkeeper with deep local market knowledge. Highly recommended!"
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": [
+        "Maritime Trade",
+        "Small Business",
+        "Services"
+      ]
+    },
+    {
+      "id": "bb-089",
+      "name": "Hiroshi Suzuki",
+      "location": "Nagoya, Japan",
+      "remote": true,
+      "languages": [
+        "Japanese",
+        "English"
+      ],
+      "specializations": [
+        "Automotive Parts"
+      ],
+      "experience_years": 9,
+      "certifications": [
+        "Local Certification (Japan)"
+      ],
+      "tier": "scaling",
+      "pricing": {
+        "range": "600000-1000000",
+        "currency": "JPY",
+        "frequency": "monthly",
+        "setup_fee": "360000",
+        "includes": [
+          "Professional bookkeeping",
+          "Monthly reports",
+          "Tax support"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Wave"
+      ],
+      "payroll_capable": false,
+      "reviews": {
+        "average_rating": 4.9399999999999995,
+        "total_reviews": 24,
+        "recent_quote": "Excellent bookkeeper with deep local market knowledge. Highly recommended!"
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": [
+        "Automotive Parts",
+        "Small Business",
+        "Services"
+      ]
+    },
+    {
+      "id": "bb-090",
+      "name": "Layla Hassan",
+      "location": "Amman, Jordan",
+      "remote": true,
+      "languages": [
+        "Arabic",
+        "English"
+      ],
+      "specializations": [
+        "Tourism & Hospitality"
+      ],
+      "experience_years": 10,
+      "certifications": [
+        "Local Certification (Jordan)"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "400-700",
+        "currency": "USD",
+        "frequency": "monthly",
+        "setup_fee": "240",
+        "includes": [
+          "Professional bookkeeping",
+          "Monthly reports",
+          "Tax support"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Wave"
+      ],
+      "payroll_capable": true,
+      "reviews": {
+        "average_rating": 4.85,
+        "total_reviews": 25,
+        "recent_quote": "Excellent bookkeeper with deep local market knowledge. Highly recommended!"
+      },
+      "availability": "Limited availability",
+      "free_consultation": true,
+      "industries_served": [
+        "Tourism & Hospitality",
+        "Small Business",
+        "Services"
+      ]
+    },
+    {
+      "id": "bb-091",
+      "name": "Bj\u00f6rn Andersson",
+      "location": "Copenhagen, Denmark",
+      "remote": true,
+      "languages": [
+        "Danish",
+        "English"
+      ],
+      "specializations": [
+        "Tech Startups"
+      ],
+      "experience_years": 11,
+      "certifications": [
+        "Local Certification (Denmark)"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "4500-8000",
+        "currency": "DKK",
+        "frequency": "monthly",
+        "setup_fee": "2700",
+        "includes": [
+          "Professional bookkeeping",
+          "Monthly reports",
+          "Tax support"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Wave"
+      ],
+      "payroll_capable": false,
+      "reviews": {
+        "average_rating": 4.859999999999999,
+        "total_reviews": 26,
+        "recent_quote": "Excellent bookkeeper with deep local market knowledge. Highly recommended!"
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": [
+        "Tech Startups",
+        "Small Business",
+        "Services"
+      ]
+    },
+    {
+      "id": "bb-092",
+      "name": "Zainab Malik",
+      "location": "Islamabad, Pakistan",
+      "remote": true,
+      "languages": [
+        "Urdu",
+        "English"
+      ],
+      "specializations": [
+        "IT Services"
+      ],
+      "experience_years": 12,
+      "certifications": [
+        "Local Certification (Pakistan)"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "180000-320000",
+        "currency": "PKR",
+        "frequency": "monthly",
+        "setup_fee": "108000",
+        "includes": [
+          "Professional bookkeeping",
+          "Monthly reports",
+          "Tax support"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Wave"
+      ],
+      "payroll_capable": true,
+      "reviews": {
+        "average_rating": 4.869999999999999,
+        "total_reviews": 27,
+        "recent_quote": "Excellent bookkeeper with deep local market knowledge. Highly recommended!"
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": [
+        "IT Services",
+        "Small Business",
+        "Services"
+      ]
+    },
+    {
+      "id": "bb-093",
+      "name": "Marina Popova",
+      "location": "St. Petersburg, Russia",
+      "remote": true,
+      "languages": [
+        "Russian",
+        "English"
+      ],
+      "specializations": [
+        "Fashion Retail"
+      ],
+      "experience_years": 13,
+      "certifications": [
+        "Local Certification (Russia)"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "30000-50000",
+        "currency": "RUB",
+        "frequency": "monthly",
+        "setup_fee": "18000",
+        "includes": [
+          "Professional bookkeeping",
+          "Monthly reports",
+          "Tax support"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Wave"
+      ],
+      "payroll_capable": false,
+      "reviews": {
+        "average_rating": 4.88,
+        "total_reviews": 28,
+        "recent_quote": "Excellent bookkeeper with deep local market knowledge. Highly recommended!"
+      },
+      "availability": "Limited availability",
+      "free_consultation": true,
+      "industries_served": [
+        "Fashion Retail",
+        "Small Business",
+        "Services"
+      ]
+    },
+    {
+      "id": "bb-094",
+      "name": "Elena Kowaski",
+      "location": "Wroc\u0142aw, Poland",
+      "remote": true,
+      "languages": [
+        "Polish",
+        "English"
+      ],
+      "specializations": [
+        "Manufacturing"
+      ],
+      "experience_years": 14,
+      "certifications": [
+        "Local Certification (Poland)"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "220-400",
+        "currency": "EUR",
+        "frequency": "monthly",
+        "setup_fee": "132",
+        "includes": [
+          "Professional bookkeeping",
+          "Monthly reports",
+          "Tax support"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Wave"
+      ],
+      "payroll_capable": true,
+      "reviews": {
+        "average_rating": 4.89,
+        "total_reviews": 29,
+        "recent_quote": "Excellent bookkeeper with deep local market knowledge. Highly recommended!"
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": [
+        "Manufacturing",
+        "Small Business",
+        "Services"
+      ]
+    },
+    {
+      "id": "bb-095",
+      "name": "Sophie Martin",
+      "location": "Lyon, France",
+      "remote": true,
+      "languages": [
+        "French",
+        "English"
+      ],
+      "specializations": [
+        "Food Production"
+      ],
+      "experience_years": 15,
+      "certifications": [
+        "Local Certification (France)"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "500-850",
+        "currency": "EUR",
+        "frequency": "monthly",
+        "setup_fee": "300",
+        "includes": [
+          "Professional bookkeeping",
+          "Monthly reports",
+          "Tax support"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Wave"
+      ],
+      "payroll_capable": false,
+      "reviews": {
+        "average_rating": 4.8999999999999995,
+        "total_reviews": 30,
+        "recent_quote": "Excellent bookkeeper with deep local market knowledge. Highly recommended!"
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": [
+        "Food Production",
+        "Small Business",
+        "Services"
+      ]
+    },
+    {
+      "id": "bb-096",
+      "name": "Klaus Hoffmann",
+      "location": "Munich, Germany",
+      "remote": true,
+      "languages": [
+        "German",
+        "English"
+      ],
+      "specializations": [
+        "Precision Engineering"
+      ],
+      "experience_years": 8,
+      "certifications": [
+        "Local Certification (Germany)"
+      ],
+      "tier": "scaling",
+      "pricing": {
+        "range": "600-1000",
+        "currency": "EUR",
+        "frequency": "monthly",
+        "setup_fee": "360",
+        "includes": [
+          "Professional bookkeeping",
+          "Monthly reports",
+          "Tax support"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Wave"
+      ],
+      "payroll_capable": true,
+      "reviews": {
+        "average_rating": 4.909999999999999,
+        "total_reviews": 31,
+        "recent_quote": "Excellent bookkeeper with deep local market knowledge. Highly recommended!"
+      },
+      "availability": "Limited availability",
+      "free_consultation": true,
+      "industries_served": [
+        "Precision Engineering",
+        "Small Business",
+        "Services"
+      ]
+    },
+    {
+      "id": "bb-097",
+      "name": "Mariana Costa",
+      "location": "Lisbon, Portugal",
+      "remote": true,
+      "languages": [
+        "Portuguese",
+        "English"
+      ],
+      "specializations": [
+        "Wine Export"
+      ],
+      "experience_years": 9,
+      "certifications": [
+        "Local Certification (Portugal)"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "350-600",
+        "currency": "EUR",
+        "frequency": "monthly",
+        "setup_fee": "210",
+        "includes": [
+          "Professional bookkeeping",
+          "Monthly reports",
+          "Tax support"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Wave"
+      ],
+      "payroll_capable": false,
+      "reviews": {
+        "average_rating": 4.92,
+        "total_reviews": 32,
+        "recent_quote": "Excellent bookkeeper with deep local market knowledge. Highly recommended!"
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": [
+        "Wine Export",
+        "Small Business",
+        "Services"
+      ]
+    },
+    {
+      "id": "bb-098",
+      "name": "Anastasia Petrov",
+      "location": "Kiev, Ukraine",
+      "remote": true,
+      "languages": [
+        "Ukrainian",
+        "English"
+      ],
+      "specializations": [
+        "Software Development"
+      ],
+      "experience_years": 10,
+      "certifications": [
+        "Local Certification (Ukraine)"
+      ],
+      "tier": "starter",
+      "pricing": {
+        "range": "150-280",
+        "currency": "USD",
+        "frequency": "monthly",
+        "setup_fee": "90",
+        "includes": [
+          "Professional bookkeeping",
+          "Monthly reports",
+          "Tax support"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Wave"
+      ],
+      "payroll_capable": true,
+      "reviews": {
+        "average_rating": 4.93,
+        "total_reviews": 33,
+        "recent_quote": "Excellent bookkeeper with deep local market knowledge. Highly recommended!"
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": [
+        "Software Development",
+        "Small Business",
+        "Services"
+      ]
+    },
+    {
+      "id": "bb-099",
+      "name": "Istv\u00e1n Nagy",
+      "location": "Budapest, Hungary",
+      "remote": true,
+      "languages": [
+        "Hungarian",
+        "English"
+      ],
+      "specializations": [
+        "Manufacturing"
+      ],
+      "experience_years": 11,
+      "certifications": [
+        "Local Certification (Hungary)"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "250-450",
+        "currency": "EUR",
+        "frequency": "monthly",
+        "setup_fee": "150",
+        "includes": [
+          "Professional bookkeeping",
+          "Monthly reports",
+          "Tax support"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Wave"
+      ],
+      "payroll_capable": false,
+      "reviews": {
+        "average_rating": 4.9399999999999995,
+        "total_reviews": 34,
+        "recent_quote": "Excellent bookkeeper with deep local market knowledge. Highly recommended!"
+      },
+      "availability": "Limited availability",
+      "free_consultation": true,
+      "industries_served": [
+        "Manufacturing",
+        "Small Business",
+        "Services"
+      ]
+    },
+    {
+      "id": "bb-100",
+      "name": "Adrian Popescu",
+      "location": "Bucharest, Romania",
+      "remote": true,
+      "languages": [
+        "Romanian",
+        "English"
+      ],
+      "specializations": [
+        "IT Services"
+      ],
+      "experience_years": 12,
+      "certifications": [
+        "Local Certification (Romania)"
+      ],
+      "tier": "starter",
+      "pricing": {
+        "range": "180-320",
+        "currency": "EUR",
+        "frequency": "monthly",
+        "setup_fee": "108",
+        "includes": [
+          "Professional bookkeeping",
+          "Monthly reports",
+          "Tax support"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Wave"
+      ],
+      "payroll_capable": true,
+      "reviews": {
+        "average_rating": 4.85,
+        "total_reviews": 35,
+        "recent_quote": "Excellent bookkeeper with deep local market knowledge. Highly recommended!"
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": [
+        "IT Services",
+        "Small Business",
+        "Services"
+      ]
+    },
+    {
+      "id": "bb-101",
+      "name": "Ingrid Bergman",
+      "location": "Oslo, Norway",
+      "remote": true,
+      "languages": [
+        "Norwegian",
+        "English"
+      ],
+      "specializations": [
+        "Energy Services"
+      ],
+      "experience_years": 13,
+      "certifications": [
+        "Local Certification (Norway)"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "5000-9000",
+        "currency": "NOK",
+        "frequency": "monthly",
+        "setup_fee": "3000",
+        "includes": [
+          "Professional bookkeeping",
+          "Monthly reports",
+          "Tax support"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Wave"
+      ],
+      "payroll_capable": false,
+      "reviews": {
+        "average_rating": 4.859999999999999,
+        "total_reviews": 36,
+        "recent_quote": "Excellent bookkeeper with deep local market knowledge. Highly recommended!"
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": [
+        "Energy Services",
+        "Small Business",
+        "Services"
+      ]
+    },
+    {
+      "id": "bb-102",
+      "name": "Maria Andersen",
+      "location": "Dublin, Ireland",
+      "remote": true,
+      "languages": [
+        "English",
+        "English"
+      ],
+      "specializations": [
+        "Tech Companies"
+      ],
+      "experience_years": 14,
+      "certifications": [
+        "Local Certification (Ireland)"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "650-1100",
+        "currency": "EUR",
+        "frequency": "monthly",
+        "setup_fee": "390",
+        "includes": [
+          "Professional bookkeeping",
+          "Monthly reports",
+          "Tax support"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Wave"
+      ],
+      "payroll_capable": true,
+      "reviews": {
+        "average_rating": 4.869999999999999,
+        "total_reviews": 37,
+        "recent_quote": "Excellent bookkeeper with deep local market knowledge. Highly recommended!"
+      },
+      "availability": "Limited availability",
+      "free_consultation": true,
+      "industries_served": [
+        "Tech Companies",
+        "Small Business",
+        "Services"
+      ]
+    },
+    {
+      "id": "bb-103",
+      "name": "David Morrison",
+      "location": "Edinburgh, Scotland",
+      "remote": true,
+      "languages": [
+        "English",
+        "English"
+      ],
+      "specializations": [
+        "Craft Beverages"
+      ],
+      "experience_years": 15,
+      "certifications": [
+        "Local Certification (Scotland)"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "400-700",
+        "currency": "GBP",
+        "frequency": "monthly",
+        "setup_fee": "240",
+        "includes": [
+          "Professional bookkeeping",
+          "Monthly reports",
+          "Tax support"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Wave"
+      ],
+      "payroll_capable": false,
+      "reviews": {
+        "average_rating": 4.88,
+        "total_reviews": 38,
+        "recent_quote": "Excellent bookkeeper with deep local market knowledge. Highly recommended!"
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": [
+        "Craft Beverages",
+        "Small Business",
+        "Services"
+      ]
+    },
+    {
+      "id": "bb-104",
+      "name": "Jennifer O'Shaughnessy",
+      "location": "Belfast, Northern Ireland",
+      "remote": true,
+      "languages": [
+        "English",
+        "English"
+      ],
+      "specializations": [
+        "Manufacturing"
+      ],
+      "experience_years": 8,
+      "certifications": [
+        "Local Certification (Northern Ireland)"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "350-600",
+        "currency": "GBP",
+        "frequency": "monthly",
+        "setup_fee": "210",
+        "includes": [
+          "Professional bookkeeping",
+          "Monthly reports",
+          "Tax support"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Wave"
+      ],
+      "payroll_capable": true,
+      "reviews": {
+        "average_rating": 4.89,
+        "total_reviews": 39,
+        "recent_quote": "Excellent bookkeeper with deep local market knowledge. Highly recommended!"
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": [
+        "Manufacturing",
+        "Small Business",
+        "Services"
+      ]
+    },
+    {
+      "id": "bb-105",
+      "name": "Sophia Nikolaidis",
+      "location": "Athens, Greece",
+      "remote": true,
+      "languages": [
+        "Greek",
+        "English"
+      ],
+      "specializations": [
+        "Tourism"
+      ],
+      "experience_years": 9,
+      "certifications": [
+        "Local Certification (Greece)"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "400-700",
+        "currency": "EUR",
+        "frequency": "monthly",
+        "setup_fee": "240",
+        "includes": [
+          "Professional bookkeeping",
+          "Monthly reports",
+          "Tax support"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Wave"
+      ],
+      "payroll_capable": false,
+      "reviews": {
+        "average_rating": 4.8999999999999995,
+        "total_reviews": 40,
+        "recent_quote": "Excellent bookkeeper with deep local market knowledge. Highly recommended!"
+      },
+      "availability": "Limited availability",
+      "free_consultation": true,
+      "industries_served": [
+        "Tourism",
+        "Small Business",
+        "Services"
+      ]
+    },
+    {
+      "id": "bb-106",
+      "name": "Mehmet Yilmaz",
+      "location": "Istanbul, Turkey",
+      "remote": true,
+      "languages": [
+        "Turkish",
+        "English"
+      ],
+      "specializations": [
+        "Trading"
+      ],
+      "experience_years": 10,
+      "certifications": [
+        "Local Certification (Turkey)"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "15000-28000",
+        "currency": "TRY",
+        "frequency": "monthly",
+        "setup_fee": "9000",
+        "includes": [
+          "Professional bookkeeping",
+          "Monthly reports",
+          "Tax support"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Wave"
+      ],
+      "payroll_capable": true,
+      "reviews": {
+        "average_rating": 4.909999999999999,
+        "total_reviews": 41,
+        "recent_quote": "Excellent bookkeeper with deep local market knowledge. Highly recommended!"
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": [
+        "Trading",
+        "Small Business",
+        "Services"
+      ]
+    },
+    {
+      "id": "bb-107",
+      "name": "Aida Hussain",
+      "location": "Beirut, Lebanon",
+      "remote": true,
+      "languages": [
+        "Arabic",
+        "English"
+      ],
+      "specializations": [
+        "Banking Services"
+      ],
+      "experience_years": 11,
+      "certifications": [
+        "Local Certification (Lebanon)"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "350-600",
+        "currency": "USD",
+        "frequency": "monthly",
+        "setup_fee": "210",
+        "includes": [
+          "Professional bookkeeping",
+          "Monthly reports",
+          "Tax support"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Wave"
+      ],
+      "payroll_capable": false,
+      "reviews": {
+        "average_rating": 4.92,
+        "total_reviews": 42,
+        "recent_quote": "Excellent bookkeeper with deep local market knowledge. Highly recommended!"
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": [
+        "Banking Services",
+        "Small Business",
+        "Services"
+      ]
+    },
+    {
+      "id": "bb-108",
+      "name": "Karim Al-Zahrani",
+      "location": "Jeddah, Saudi Arabia",
+      "remote": true,
+      "languages": [
+        "Arabic",
+        "English"
+      ],
+      "specializations": [
+        "Retail & Trading"
+      ],
+      "experience_years": 12,
+      "certifications": [
+        "Local Certification (Saudi Arabia)"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "3500-6000",
+        "currency": "SAR",
+        "frequency": "monthly",
+        "setup_fee": "2100",
+        "includes": [
+          "Professional bookkeeping",
+          "Monthly reports",
+          "Tax support"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Wave"
+      ],
+      "payroll_capable": true,
+      "reviews": {
+        "average_rating": 4.93,
+        "total_reviews": 43,
+        "recent_quote": "Excellent bookkeeper with deep local market knowledge. Highly recommended!"
+      },
+      "availability": "Limited availability",
+      "free_consultation": true,
+      "industries_served": [
+        "Retail & Trading",
+        "Small Business",
+        "Services"
+      ]
+    },
+    {
+      "id": "bb-109",
+      "name": "Reem Al-Quraishi",
+      "location": "Muscat, Oman",
+      "remote": true,
+      "languages": [
+        "Arabic",
+        "English"
+      ],
+      "specializations": [
+        "Tourism & Hospitality"
+      ],
+      "experience_years": 13,
+      "certifications": [
+        "Local Certification (Oman)"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "400-700",
+        "currency": "USD",
+        "frequency": "monthly",
+        "setup_fee": "240",
+        "includes": [
+          "Professional bookkeeping",
+          "Monthly reports",
+          "Tax support"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Wave"
+      ],
+      "payroll_capable": false,
+      "reviews": {
+        "average_rating": 4.9399999999999995,
+        "total_reviews": 44,
+        "recent_quote": "Excellent bookkeeper with deep local market knowledge. Highly recommended!"
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": [
+        "Tourism & Hospitality",
+        "Small Business",
+        "Services"
+      ]
+    },
+    {
+      "id": "bb-110",
+      "name": "Jasmine Chen",
+      "location": "Taipei, Taiwan",
+      "remote": true,
+      "languages": [
+        "Mandarin",
+        "English"
+      ],
+      "specializations": [
+        "Electronics Manufacturing"
+      ],
+      "experience_years": 14,
+      "certifications": [
+        "Local Certification (Taiwan)"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "18000-32000",
+        "currency": "TWD",
+        "frequency": "monthly",
+        "setup_fee": "10800",
+        "includes": [
+          "Professional bookkeeping",
+          "Monthly reports",
+          "Tax support"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Wave"
+      ],
+      "payroll_capable": true,
+      "reviews": {
+        "average_rating": 4.85,
+        "total_reviews": 45,
+        "recent_quote": "Excellent bookkeeper with deep local market knowledge. Highly recommended!"
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": [
+        "Electronics Manufacturing",
+        "Small Business",
+        "Services"
+      ]
+    },
+    {
+      "id": "bb-081",
+      "name": "Victoria Rosso",
+      "location": "Genoa, Italy",
+      "remote": true,
+      "languages": [
+        "Italian",
+        "English"
+      ],
+      "specializations": [
+        "Shipping & Logistics"
+      ],
+      "experience_years": 12,
+      "certifications": [
+        "Professional Certification"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "450-750",
+        "currency": "EUR",
+        "frequency": "monthly",
+        "setup_fee": "225",
+        "includes": [
+          "Complete bookkeeping",
+          "Monthly reporting",
+          "Professional support"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Wave"
+      ],
+      "payroll_capable": false,
+      "reviews": {
+        "average_rating": 4.87,
+        "total_reviews": 23,
+        "recent_quote": "Professional, reliable, and deeply knowledgeable about local business practices."
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": [
+        "Shipping & Logistics",
+        "Business Services"
+      ]
+    },
+    {
+      "id": "bb-082",
+      "name": "Henrik Lindqvist",
+      "location": "Malm\u00f6, Sweden",
+      "remote": true,
+      "languages": [
+        "Swedish",
+        "English"
+      ],
+      "specializations": [
+        "Manufacturing"
+      ],
+      "experience_years": 14,
+      "certifications": [
+        "Professional Certification"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "4500-8000",
+        "currency": "SEK",
+        "frequency": "monthly",
+        "setup_fee": "2250",
+        "includes": [
+          "Complete bookkeeping",
+          "Monthly reporting",
+          "Professional support"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Wave"
+      ],
+      "payroll_capable": true,
+      "reviews": {
+        "average_rating": 4.88,
+        "total_reviews": 24,
+        "recent_quote": "Professional, reliable, and deeply knowledgeable about local business practices."
+      },
+      "availability": "Limited availability",
+      "free_consultation": true,
+      "industries_served": [
+        "Manufacturing",
+        "Business Services"
+      ]
+    },
+    {
+      "id": "bb-083",
+      "name": "Chidi Okonkwo",
+      "location": "Abuja, Nigeria",
+      "remote": true,
+      "languages": [
+        "English",
+        "English"
+      ],
+      "specializations": [
+        "Financial Services"
+      ],
+      "experience_years": 10,
+      "certifications": [
+        "Professional Certification"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "350000-600000",
+        "currency": "NGN",
+        "frequency": "monthly",
+        "setup_fee": "175000",
+        "includes": [
+          "Complete bookkeeping",
+          "Monthly reporting",
+          "Professional support"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Wave"
+      ],
+      "payroll_capable": false,
+      "reviews": {
+        "average_rating": 4.88,
+        "total_reviews": 25,
+        "recent_quote": "Professional, reliable, and deeply knowledgeable about local business practices."
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": [
+        "Financial Services",
+        "Business Services"
+      ]
+    },
+    {
+      "id": "bb-084",
+      "name": "Ludmila Sokolov",
+      "location": "Novosibirsk, Russia",
+      "remote": true,
+      "languages": [
+        "Russian",
+        "English"
+      ],
+      "specializations": [
+        "Oil & Gas Support"
+      ],
+      "experience_years": 16,
+      "certifications": [
+        "Professional Certification"
+      ],
+      "tier": "scaling",
+      "pricing": {
+        "range": "40000-70000",
+        "currency": "RUB",
+        "frequency": "monthly",
+        "setup_fee": "20000",
+        "includes": [
+          "Complete bookkeeping",
+          "Monthly reporting",
+          "Professional support"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Wave"
+      ],
+      "payroll_capable": true,
+      "reviews": {
+        "average_rating": 4.89,
+        "total_reviews": 26,
+        "recent_quote": "Professional, reliable, and deeply knowledgeable about local business practices."
+      },
+      "availability": "Limited availability",
+      "free_consultation": true,
+      "industries_served": [
+        "Oil & Gas Support",
+        "Business Services"
+      ]
+    },
+    {
+      "id": "bb-085",
+      "name": "Kenji Yamada",
+      "location": "Sapporo, Japan",
+      "remote": true,
+      "languages": [
+        "Japanese",
+        "English"
+      ],
+      "specializations": [
+        "Food Manufacturing"
+      ],
+      "experience_years": 11,
+      "certifications": [
+        "Professional Certification"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "450000-800000",
+        "currency": "JPY",
+        "frequency": "monthly",
+        "setup_fee": "225000",
+        "includes": [
+          "Complete bookkeeping",
+          "Monthly reporting",
+          "Professional support"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Wave"
+      ],
+      "payroll_capable": false,
+      "reviews": {
+        "average_rating": 4.9,
+        "total_reviews": 27,
+        "recent_quote": "Professional, reliable, and deeply knowledgeable about local business practices."
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": [
+        "Food Manufacturing",
+        "Business Services"
+      ]
+    },
+    {
+      "id": "bb-086",
+      "name": "Aisha Al-Kawari",
+      "location": "Doha, Qatar",
+      "remote": true,
+      "languages": [
+        "Arabic",
+        "English"
+      ],
+      "specializations": [
+        "Consulting"
+      ],
+      "experience_years": 9,
+      "certifications": [
+        "Professional Certification"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "3000-5500",
+        "currency": "QAR",
+        "frequency": "monthly",
+        "setup_fee": "1500",
+        "includes": [
+          "Complete bookkeeping",
+          "Monthly reporting",
+          "Professional support"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Wave"
+      ],
+      "payroll_capable": true,
+      "reviews": {
+        "average_rating": 4.91,
+        "total_reviews": 28,
+        "recent_quote": "Professional, reliable, and deeply knowledgeable about local business practices."
+      },
+      "availability": "Limited availability",
+      "free_consultation": true,
+      "industries_served": [
+        "Consulting",
+        "Business Services"
+      ]
+    },
+    {
+      "id": "bb-087",
+      "name": "Roberto Gonz\u00e1lez",
+      "location": "Monterrey, Mexico",
+      "remote": true,
+      "languages": [
+        "Spanish",
+        "English"
+      ],
+      "specializations": [
+        "Industrial Manufacturing"
+      ],
+      "experience_years": 15,
+      "certifications": [
+        "Professional Certification"
+      ],
+      "tier": "scaling",
+      "pricing": {
+        "range": "250-450",
+        "currency": "USD",
+        "frequency": "monthly",
+        "setup_fee": "125",
+        "includes": [
+          "Complete bookkeeping",
+          "Monthly reporting",
+          "Professional support"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Wave"
+      ],
+      "payroll_capable": false,
+      "reviews": {
+        "average_rating": 4.92,
+        "total_reviews": 29,
+        "recent_quote": "Professional, reliable, and deeply knowledgeable about local business practices."
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": [
+        "Industrial Manufacturing",
+        "Business Services"
+      ]
+    },
+    {
+      "id": "bb-088",
+      "name": "Elisabet S\u00e1ez",
+      "location": "Seville, Spain",
+      "remote": true,
+      "languages": [
+        "Spanish",
+        "English"
+      ],
+      "specializations": [
+        "Tourism & Hotels"
+      ],
+      "experience_years": 10,
+      "certifications": [
+        "Professional Certification"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "400-700",
+        "currency": "EUR",
+        "frequency": "monthly",
+        "setup_fee": "200",
+        "includes": [
+          "Complete bookkeeping",
+          "Monthly reporting",
+          "Professional support"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Wave"
+      ],
+      "payroll_capable": true,
+      "reviews": {
+        "average_rating": 4.92,
+        "total_reviews": 30,
+        "recent_quote": "Professional, reliable, and deeply knowledgeable about local business practices."
+      },
+      "availability": "Limited availability",
+      "free_consultation": true,
+      "industries_served": [
+        "Tourism & Hotels",
+        "Business Services"
+      ]
+    },
+    {
+      "id": "bb-089",
+      "name": "Masaru Tanaka",
+      "location": "Sendai, Japan",
+      "remote": true,
+      "languages": [
+        "Japanese",
+        "English"
+      ],
+      "specializations": [
+        "Retail Chains"
+      ],
+      "experience_years": 13,
+      "certifications": [
+        "Professional Certification"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "500000-850000",
+        "currency": "JPY",
+        "frequency": "monthly",
+        "setup_fee": "250000",
+        "includes": [
+          "Complete bookkeeping",
+          "Monthly reporting",
+          "Professional support"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Wave"
+      ],
+      "payroll_capable": false,
+      "reviews": {
+        "average_rating": 4.93,
+        "total_reviews": 31,
+        "recent_quote": "Professional, reliable, and deeply knowledgeable about local business practices."
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": [
+        "Retail Chains",
+        "Business Services"
+      ]
+    },
+    {
+      "id": "bb-090",
+      "name": "Maryam Al-Ansari",
+      "location": "Abu Dhabi, UAE",
+      "remote": true,
+      "languages": [
+        "Arabic",
+        "English"
+      ],
+      "specializations": [
+        "Consulting Firms"
+      ],
+      "experience_years": 11,
+      "certifications": [
+        "Professional Certification"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "2800-4800",
+        "currency": "AED",
+        "frequency": "monthly",
+        "setup_fee": "1400",
+        "includes": [
+          "Complete bookkeeping",
+          "Monthly reporting",
+          "Professional support"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Wave"
+      ],
+      "payroll_capable": true,
+      "reviews": {
+        "average_rating": 4.82,
+        "total_reviews": 32,
+        "recent_quote": "Professional, reliable, and deeply knowledgeable about local business practices."
+      },
+      "availability": "Limited availability",
+      "free_consultation": true,
+      "industries_served": [
+        "Consulting Firms",
+        "Business Services"
+      ]
+    },
+    {
+      "id": "bb-091",
+      "name": "Ana Jim\u00e9nez",
+      "location": "Canc\u00fan, Mexico",
+      "remote": true,
+      "languages": [
+        "Spanish",
+        "English"
+      ],
+      "specializations": [
+        "Hospitality Management"
+      ],
+      "experience_years": 9,
+      "certifications": [
+        "Professional Certification"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "150-280",
+        "currency": "USD",
+        "frequency": "monthly",
+        "setup_fee": "75",
+        "includes": [
+          "Complete bookkeeping",
+          "Monthly reporting",
+          "Professional support"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Wave"
+      ],
+      "payroll_capable": false,
+      "reviews": {
+        "average_rating": 4.83,
+        "total_reviews": 33,
+        "recent_quote": "Professional, reliable, and deeply knowledgeable about local business practices."
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": [
+        "Hospitality Management",
+        "Business Services"
+      ]
+    },
+    {
+      "id": "bb-092",
+      "name": "Beatriz L\u00f3pez",
+      "location": "Bilbao, Spain",
+      "remote": true,
+      "languages": [
+        "Spanish",
+        "English"
+      ],
+      "specializations": [
+        "Energy Sector"
+      ],
+      "experience_years": 13,
+      "certifications": [
+        "Professional Certification"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "500-850",
+        "currency": "EUR",
+        "frequency": "monthly",
+        "setup_fee": "250",
+        "includes": [
+          "Complete bookkeeping",
+          "Monthly reporting",
+          "Professional support"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Wave"
+      ],
+      "payroll_capable": true,
+      "reviews": {
+        "average_rating": 4.84,
+        "total_reviews": 34,
+        "recent_quote": "Professional, reliable, and deeply knowledgeable about local business practices."
+      },
+      "availability": "Limited availability",
+      "free_consultation": true,
+      "industries_served": [
+        "Energy Sector",
+        "Business Services"
+      ]
+    },
+    {
+      "id": "bb-093",
+      "name": "Tatsuo Kobayashi",
+      "location": "Kobe, Japan",
+      "remote": true,
+      "languages": [
+        "Japanese",
+        "English"
+      ],
+      "specializations": [
+        "Shipping Industry"
+      ],
+      "experience_years": 14,
+      "certifications": [
+        "Professional Certification"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "550000-900000",
+        "currency": "JPY",
+        "frequency": "monthly",
+        "setup_fee": "275000",
+        "includes": [
+          "Complete bookkeeping",
+          "Monthly reporting",
+          "Professional support"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Wave"
+      ],
+      "payroll_capable": false,
+      "reviews": {
+        "average_rating": 4.84,
+        "total_reviews": 35,
+        "recent_quote": "Professional, reliable, and deeply knowledgeable about local business practices."
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": [
+        "Shipping Industry",
+        "Business Services"
+      ]
+    },
+    {
+      "id": "bb-094",
+      "name": "Farida Al-Mansoori",
+      "location": "Ajman, UAE",
+      "remote": true,
+      "languages": [
+        "Arabic",
+        "English"
+      ],
+      "specializations": [
+        "Retail Businesses"
+      ],
+      "experience_years": 8,
+      "certifications": [
+        "Professional Certification"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "2500-4500",
+        "currency": "AED",
+        "frequency": "monthly",
+        "setup_fee": "1250",
+        "includes": [
+          "Complete bookkeeping",
+          "Monthly reporting",
+          "Professional support"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Wave"
+      ],
+      "payroll_capable": true,
+      "reviews": {
+        "average_rating": 4.85,
+        "total_reviews": 36,
+        "recent_quote": "Professional, reliable, and deeply knowledgeable about local business practices."
+      },
+      "availability": "Limited availability",
+      "free_consultation": true,
+      "industries_served": [
+        "Retail Businesses",
+        "Business Services"
+      ]
+    },
+    {
+      "id": "bb-095",
+      "name": "Diego Vargas",
+      "location": "Veracruz, Mexico",
+      "remote": true,
+      "languages": [
+        "Spanish",
+        "English"
+      ],
+      "specializations": [
+        "Port Services"
+      ],
+      "experience_years": 11,
+      "certifications": [
+        "Professional Certification"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "180-320",
+        "currency": "USD",
+        "frequency": "monthly",
+        "setup_fee": "90",
+        "includes": [
+          "Complete bookkeeping",
+          "Monthly reporting",
+          "Professional support"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Wave"
+      ],
+      "payroll_capable": false,
+      "reviews": {
+        "average_rating": 4.86,
+        "total_reviews": 37,
+        "recent_quote": "Professional, reliable, and deeply knowledgeable about local business practices."
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": [
+        "Port Services",
+        "Business Services"
+      ]
+    },
+    {
+      "id": "bb-096",
+      "name": "Isabel Garc\u00eda",
+      "location": "Zaragoza, Spain",
+      "remote": true,
+      "languages": [
+        "Spanish",
+        "English"
+      ],
+      "specializations": [
+        "Food & Beverage"
+      ],
+      "experience_years": 9,
+      "certifications": [
+        "Professional Certification"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "350-600",
+        "currency": "EUR",
+        "frequency": "monthly",
+        "setup_fee": "175",
+        "includes": [
+          "Complete bookkeeping",
+          "Monthly reporting",
+          "Professional support"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Wave"
+      ],
+      "payroll_capable": true,
+      "reviews": {
+        "average_rating": 4.87,
+        "total_reviews": 38,
+        "recent_quote": "Professional, reliable, and deeply knowledgeable about local business practices."
+      },
+      "availability": "Limited availability",
+      "free_consultation": true,
+      "industries_served": [
+        "Food & Beverage",
+        "Business Services"
+      ]
+    },
+    {
+      "id": "bb-097",
+      "name": "Yusuke Nakamura",
+      "location": "Hiroshima, Japan",
+      "remote": true,
+      "languages": [
+        "Japanese",
+        "English"
+      ],
+      "specializations": [
+        "Construction Services"
+      ],
+      "experience_years": 12,
+      "certifications": [
+        "Professional Certification"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "480000-820000",
+        "currency": "JPY",
+        "frequency": "monthly",
+        "setup_fee": "240000",
+        "includes": [
+          "Complete bookkeeping",
+          "Monthly reporting",
+          "Professional support"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Wave"
+      ],
+      "payroll_capable": false,
+      "reviews": {
+        "average_rating": 4.88,
+        "total_reviews": 39,
+        "recent_quote": "Professional, reliable, and deeply knowledgeable about local business practices."
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": [
+        "Construction Services",
+        "Business Services"
+      ]
+    },
+    {
+      "id": "bb-098",
+      "name": "Samir Al-Rashid",
+      "location": "Manama, Bahrain",
+      "remote": true,
+      "languages": [
+        "Arabic",
+        "English"
+      ],
+      "specializations": [
+        "Trading Companies"
+      ],
+      "experience_years": 10,
+      "certifications": [
+        "Professional Certification"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "400-700",
+        "currency": "USD",
+        "frequency": "monthly",
+        "setup_fee": "200",
+        "includes": [
+          "Complete bookkeeping",
+          "Monthly reporting",
+          "Professional support"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Wave"
+      ],
+      "payroll_capable": true,
+      "reviews": {
+        "average_rating": 4.88,
+        "total_reviews": 40,
+        "recent_quote": "Professional, reliable, and deeply knowledgeable about local business practices."
+      },
+      "availability": "Limited availability",
+      "free_consultation": true,
+      "industries_served": [
+        "Trading Companies",
+        "Business Services"
+      ]
+    },
+    {
+      "id": "bb-099",
+      "name": "Fernando Ruiz",
+      "location": "Acapulco, Mexico",
+      "remote": true,
+      "languages": [
+        "Spanish",
+        "English"
+      ],
+      "specializations": [
+        "Tourism Businesses"
+      ],
+      "experience_years": 7,
+      "certifications": [
+        "Professional Certification"
+      ],
+      "tier": "starter",
+      "pricing": {
+        "range": "120-220",
+        "currency": "USD",
+        "frequency": "monthly",
+        "setup_fee": "60",
+        "includes": [
+          "Complete bookkeeping",
+          "Monthly reporting",
+          "Professional support"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Wave"
+      ],
+      "payroll_capable": false,
+      "reviews": {
+        "average_rating": 4.89,
+        "total_reviews": 41,
+        "recent_quote": "Professional, reliable, and deeply knowledgeable about local business practices."
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": [
+        "Tourism Businesses",
+        "Business Services"
+      ]
+    },
+    {
+      "id": "bb-100",
+      "name": "Cristina Flores",
+      "location": "Murcia, Spain",
+      "remote": true,
+      "languages": [
+        "Spanish",
+        "English"
+      ],
+      "specializations": [
+        "Agriculture"
+      ],
+      "experience_years": 11,
+      "certifications": [
+        "Professional Certification"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "280-500",
+        "currency": "EUR",
+        "frequency": "monthly",
+        "setup_fee": "140",
+        "includes": [
+          "Complete bookkeeping",
+          "Monthly reporting",
+          "Professional support"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Wave"
+      ],
+      "payroll_capable": true,
+      "reviews": {
+        "average_rating": 4.9,
+        "total_reviews": 42,
+        "recent_quote": "Professional, reliable, and deeply knowledgeable about local business practices."
+      },
+      "availability": "Limited availability",
+      "free_consultation": true,
+      "industries_served": [
+        "Agriculture",
+        "Business Services"
+      ]
+    },
+    {
+      "id": "bb-101",
+      "name": "Takeshi Saito",
+      "location": "Yokohama, Japan",
+      "remote": true,
+      "languages": [
+        "Japanese",
+        "English"
+      ],
+      "specializations": [
+        "Import/Export"
+      ],
+      "experience_years": 13,
+      "certifications": [
+        "Professional Certification"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "520000-880000",
+        "currency": "JPY",
+        "frequency": "monthly",
+        "setup_fee": "260000",
+        "includes": [
+          "Complete bookkeeping",
+          "Monthly reporting",
+          "Professional support"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Wave"
+      ],
+      "payroll_capable": false,
+      "reviews": {
+        "average_rating": 4.91,
+        "total_reviews": 43,
+        "recent_quote": "Professional, reliable, and deeply knowledgeable about local business practices."
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": [
+        "Import/Export",
+        "Business Services"
+      ]
+    },
+    {
+      "id": "bb-102",
+      "name": "Noor Al-Sulaimi",
+      "location": "Salalah, Oman",
+      "remote": true,
+      "languages": [
+        "Arabic",
+        "English"
+      ],
+      "specializations": [
+        "Port & Shipping"
+      ],
+      "experience_years": 12,
+      "certifications": [
+        "Professional Certification"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "450-800",
+        "currency": "USD",
+        "frequency": "monthly",
+        "setup_fee": "225",
+        "includes": [
+          "Complete bookkeeping",
+          "Monthly reporting",
+          "Professional support"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Wave"
+      ],
+      "payroll_capable": true,
+      "reviews": {
+        "average_rating": 4.92,
+        "total_reviews": 44,
+        "recent_quote": "Professional, reliable, and deeply knowledgeable about local business practices."
+      },
+      "availability": "Limited availability",
+      "free_consultation": true,
+      "industries_served": [
+        "Port & Shipping",
+        "Business Services"
+      ]
+    },
+    {
+      "id": "bb-103",
+      "name": "Pablo Moreno",
+      "location": "Culiac\u00e1n, Mexico",
+      "remote": true,
+      "languages": [
+        "Spanish",
+        "English"
+      ],
+      "specializations": [
+        "Agricultural Export"
+      ],
+      "experience_years": 10,
+      "certifications": [
+        "Professional Certification"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "160-300",
+        "currency": "USD",
+        "frequency": "monthly",
+        "setup_fee": "80",
+        "includes": [
+          "Complete bookkeeping",
+          "Monthly reporting",
+          "Professional support"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Wave"
+      ],
+      "payroll_capable": false,
+      "reviews": {
+        "average_rating": 4.92,
+        "total_reviews": 45,
+        "recent_quote": "Professional, reliable, and deeply knowledgeable about local business practices."
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": [
+        "Agricultural Export",
+        "Business Services"
+      ]
+    },
+    {
+      "id": "bb-104",
+      "name": "Rosario Mart\u00edn",
+      "location": "Toledo, Spain",
+      "remote": true,
+      "languages": [
+        "Spanish",
+        "English"
+      ],
+      "specializations": [
+        "Artisanal Production"
+      ],
+      "experience_years": 8,
+      "certifications": [
+        "Professional Certification"
+      ],
+      "tier": "starter",
+      "pricing": {
+        "range": "250-450",
+        "currency": "EUR",
+        "frequency": "monthly",
+        "setup_fee": "125",
+        "includes": [
+          "Complete bookkeeping",
+          "Monthly reporting",
+          "Professional support"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Wave"
+      ],
+      "payroll_capable": true,
+      "reviews": {
+        "average_rating": 4.93,
+        "total_reviews": 46,
+        "recent_quote": "Professional, reliable, and deeply knowledgeable about local business practices."
+      },
+      "availability": "Limited availability",
+      "free_consultation": true,
+      "industries_served": [
+        "Artisanal Production",
+        "Business Services"
+      ]
+    },
+    {
+      "id": "bb-105",
+      "name": "Hiroki Yamamoto",
+      "location": "Kobe, Japan",
+      "remote": true,
+      "languages": [
+        "Japanese",
+        "English"
+      ],
+      "specializations": [
+        "Fashion Retail"
+      ],
+      "experience_years": 11,
+      "certifications": [
+        "Professional Certification"
+      ],
+      "tier": "growth",
+      "pricing": {
+        "range": "500000-850000",
+        "currency": "JPY",
+        "frequency": "monthly",
+        "setup_fee": "250000",
+        "includes": [
+          "Complete bookkeeping",
+          "Monthly reporting",
+          "Professional support"
+        ]
+      },
+      "software_expertise": [
+        "QuickBooks Online",
+        "Xero",
+        "Wave"
+      ],
+      "payroll_capable": false,
+      "reviews": {
+        "average_rating": 4.82,
+        "total_reviews": 12,
+        "recent_quote": "Professional, reliable, and deeply knowledgeable about local business practices."
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": [
+        "Fashion Retail",
+        "Business Services"
+      ]
     }
   ]
 }
