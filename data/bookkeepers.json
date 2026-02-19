@@ -1,0 +1,290 @@
+{
+  "bookkeepers": [
+    {
+      "id": "bb-001",
+      "name": "Sarah Martinez",
+      "location": "Mexico City, Mexico",
+      "remote": true,
+      "languages": ["Spanish", "English"],
+      "specializations": ["E-commerce", "Freelancers", "Small Retail"],
+      "experience_years": 8,
+      "certifications": ["Contador Público", "QuickBooks Certified"],
+      "tier": "starter",
+      "pricing": {
+        "range": "$80-$150",
+        "currency": "USD",
+        "frequency": "monthly",
+        "setup_fee": "$150",
+        "includes": ["Transaction recording", "Bank reconciliation", "Monthly reports", "Email support"]
+      },
+      "software_expertise": ["QuickBooks Online", "Xero", "Wave"],
+      "payroll_capable": false,
+      "reviews": {
+        "average_rating": 4.9,
+        "total_reviews": 45,
+        "recent_quote": "Sarah is incredibly detail-oriented and patient with questions. She helped me understand my profit margins for the first time!"
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": ["E-commerce", "Freelance Services", "Tutoring", "Beauty & Wellness"]
+    },
+    {
+      "id": "bb-002",
+      "name": "Jessica Chen",
+      "location": "Toronto, Canada",
+      "remote": true,
+      "languages": ["English", "Mandarin"],
+      "specializations": ["Small Business Owners", "Immigrant Entrepreneurs", "Service Businesses"],
+      "experience_years": 12,
+      "certifications": ["CPA, CA (Canada)", "Xero Platinum Partner"],
+      "tier": "growth",
+      "pricing": {
+        "range": "$200-$350",
+        "currency": "CAD",
+        "frequency": "monthly",
+        "setup_fee": "$250",
+        "includes": ["Everything in Starter", "Invoicing & expense tracking", "Monthly financial statements", "Quarterly check-ins", "Dedicated bookkeeper"]
+      },
+      "software_expertise": ["QuickBooks Online", "Xero", "FreshBooks", "Wave"],
+      "payroll_capable": true,
+      "payroll_details": "Handles basic payroll, employees up to 10",
+      "reviews": {
+        "average_rating": 4.95,
+        "total_reviews": 78,
+        "recent_quote": "Jessica made tax season so much easier. She organized everything perfectly and saved me over $1,000 on accountant fees!"
+      },
+      "availability": "Limited availability - 2-3 week wait",
+      "free_consultation": true,
+      "industries_served": ["Consulting", "Service Providers", "Immigrant-Owned Businesses", "Professional Services"]
+    },
+    {
+      "id": "bb-003",
+      "name": "Amara Okafor",
+      "location": "London, UK",
+      "remote": true,
+      "languages": ["English", "Yoruba"],
+      "specializations": ["Creative Industries", "Freelance Designers", "Content Creators"],
+      "experience_years": 6,
+      "certifications": ["AAT Level 3", "Xero Certified"],
+      "tier": "starter",
+      "pricing": {
+        "range": "£60-£100",
+        "currency": "GBP",
+        "frequency": "monthly",
+        "setup_fee": "£80",
+        "includes": ["Transaction recording", "Bank reconciliation", "Monthly reports", "Email support"]
+      },
+      "software_expertise": ["Xero", "QuickBooks Online", "FreshBooks"],
+      "payroll_capable": false,
+      "reviews": {
+        "average_rating": 4.85,
+        "total_reviews": 32,
+        "recent_quote": "Amara understands the creative industry inside and out. She helped me track projects by client and see which are most profitable!"
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": ["Creative Services", "Freelance Design", "Content Creation", "Photography"]
+    },
+    {
+      "id": "bb-004",
+      "name": "Laura Gómez",
+      "location": "Buenos Aires, Argentina",
+      "remote": true,
+      "languages": ["Spanish", "English", "Portuguese"],
+      "specializations": ["Food & Beverage", "Small Restaurant Owners", "Catering"],
+      "experience_years": 15,
+      "certifications": ["Contador Público Argentino", "QuickBooks Advanced"],
+      "tier": "growth",
+      "pricing": {
+        "range": "$150-$300",
+        "currency": "USD",
+        "frequency": "monthly",
+        "setup_fee": "$200",
+        "includes": ["Everything in Starter", "Invoicing", "Expense categorization", "Monthly statements", "Quarterly check-ins"]
+      },
+      "software_expertise": ["QuickBooks Online", "Xero", "Wave"],
+      "payroll_capable": true,
+      "payroll_details": "Handles payroll for up to 20 employees, understands Argentine tax requirements",
+      "reviews": {
+        "average_rating": 4.92,
+        "total_reviews": 56,
+        "recent_quote": "As a restaurant owner, inventory tracking is complex. Laura simplified it completely. Worth every peso!"
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": ["Food & Beverage", "Restaurants", "Catering", "Small Hospitality"]
+    },
+    {
+      "id": "bb-005",
+      "name": "Nina Patel",
+      "location": "Mumbai, India",
+      "remote": true,
+      "languages": ["English", "Hindi", "Gujarati"],
+      "specializations": ["E-commerce", "Digital Businesses", "Startups"],
+      "experience_years": 7,
+      "certifications": ["CA (India)", "QuickBooks Certified"],
+      "tier": "starter",
+      "pricing": {
+        "range": "$50-$100",
+        "currency": "USD",
+        "frequency": "monthly",
+        "setup_fee": "$75",
+        "includes": ["Transaction recording", "Bank reconciliation", "Monthly reports", "Email support"]
+      },
+      "software_expertise": ["QuickBooks Online", "Xero", "TallyERP"],
+      "payroll_capable": false,
+      "reviews": {
+        "average_rating": 4.88,
+        "total_reviews": 41,
+        "recent_quote": "Nina is affordable but not cheap. Professional and incredibly responsive. A rare find!"
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": ["E-commerce", "Digital Businesses", "SaaS Startups", "IT Services"]
+    },
+    {
+      "id": "bb-006",
+      "name": "Michelle Williams",
+      "location": "Atlanta, USA",
+      "remote": true,
+      "languages": ["English"],
+      "specializations": ["Nonprofits", "Faith Organizations", "Community Services"],
+      "experience_years": 14,
+      "certifications": ["CPA (Georgia)", "Nonprofit Accounting Specialist"],
+      "tier": "scaling",
+      "pricing": {
+        "range": "$500-$850",
+        "currency": "USD",
+        "frequency": "monthly",
+        "setup_fee": "$300",
+        "includes": ["Everything in Growth", "Grant tracking", "Nonprofit compliance", "Form 990 preparation support", "Donor reporting"]
+      },
+      "software_expertise": ["QuickBooks Online (Nonprofit)", "Xero", "Apptio"],
+      "payroll_capable": true,
+      "payroll_details": "Full payroll services for nonprofits",
+      "reviews": {
+        "average_rating": 4.98,
+        "total_reviews": 23,
+        "recent_quote": "Michelle understands nonprofit accounting better than our accountant sometimes! She saved us thousands in audit preparation."
+      },
+      "availability": "Limited - highly sought",
+      "free_consultation": true,
+      "industries_served": ["Nonprofits", "Faith Organizations", "Community Services", "Educational Nonprofits"]
+    },
+    {
+      "id": "bb-007",
+      "name": "Sofia Rossi",
+      "location": "Sydney, Australia",
+      "remote": true,
+      "languages": ["English", "Italian"],
+      "specializations": ["Small Business", "Family Businesses", "Tradies"],
+      "experience_years": 10,
+      "certifications": ["CPA (Australia)", "Advanced Xero Certification"],
+      "tier": "growth",
+      "pricing": {
+        "range": "AUD $200-$400",
+        "currency": "AUD",
+        "frequency": "monthly",
+        "setup_fee": "AUD $250",
+        "includes": ["Transaction recording", "Bank reconciliation", "Monthly reports", "Quarterly reviews", "Payroll support"]
+      },
+      "software_expertise": ["Xero", "QuickBooks Online", "MYOB"],
+      "payroll_capable": true,
+      "payroll_details": "Payroll for up to 15 employees, GST compliance",
+      "reviews": {
+        "average_rating": 4.91,
+        "total_reviews": 38,
+        "recent_quote": "Sofia is fantastic. She not only does the books but also helps us plan for GST and tax implications. Worth every dollar!"
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": ["Tradies", "Family Businesses", "Small Retail", "Professional Services"]
+    },
+    {
+      "id": "bb-008",
+      "name": "Carmen Lopez",
+      "location": "Madrid, Spain",
+      "remote": true,
+      "languages": ["Spanish", "English", "Catalan"],
+      "specializations": ["Freelancers", "Digital Services", "Women-Owned Businesses"],
+      "experience_years": 9,
+      "certifications": ["Técnico Superior en Administración", "Xero Certified"],
+      "tier": "starter",
+      "pricing": {
+        "range": "€70-€130",
+        "currency": "EUR",
+        "frequency": "monthly",
+        "setup_fee": "€100",
+        "includes": ["Transaction recording", "Bank reconciliation", "Monthly reports", "Email support"]
+      },
+      "software_expertise": ["Xero", "QuickBooks Online", "Facturación"],
+      "payroll_capable": false,
+      "reviews": {
+        "average_rating": 4.87,
+        "total_reviews": 29,
+        "recent_quote": "Carmen is patient, helpful, and genuinely cares about helping women entrepreneurs succeed. Highly recommended!"
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": ["Freelancers", "Digital Businesses", "Women-Owned Businesses", "Creative Services"]
+    },
+    {
+      "id": "bb-009",
+      "name": "Priya Nair",
+      "location": "Dubai, UAE",
+      "remote": true,
+      "languages": ["English", "Malayalam"],
+      "specializations": ["Import/Export", "Trading Companies", "International Business"],
+      "experience_years": 11,
+      "certifications": ["CPA (USA)", "UAE VAT Specialist"],
+      "tier": "scaling",
+      "pricing": {
+        "range": "AED 2,000-4,000",
+        "currency": "AED",
+        "frequency": "monthly",
+        "setup_fee": "AED 1,500",
+        "includes": ["All Growth services", "VAT compliance", "International invoicing", "Currency management", "Priority support"]
+      },
+      "software_expertise": ["QuickBooks Online", "Xero", "SAP"],
+      "payroll_capable": true,
+      "payroll_details": "Handles UAE labor law compliance, end-of-service benefits",
+      "reviews": {
+        "average_rating": 4.94,
+        "total_reviews": 19,
+        "recent_quote": "Priya's expertise in international business and VAT compliance is invaluable. She helps us navigate complex regulations effortlessly."
+      },
+      "availability": "Limited - only 1-2 slots",
+      "free_consultation": true,
+      "industries_served": ["Import/Export", "Trading", "International Business", "Regional Businesses"]
+    },
+    {
+      "id": "bb-010",
+      "name": "Emma Thompson",
+      "location": "Vancouver, Canada",
+      "remote": true,
+      "languages": ["English", "French"],
+      "specializations": ["Wellness & Beauty", "Salon Owners", "Spa Businesses"],
+      "experience_years": 13,
+      "certifications": ["CPA, CMA (Canada)", "Business Accounting Specialist"],
+      "tier": "growth",
+      "pricing": {
+        "range": "CAD $250-$400",
+        "currency": "CAD",
+        "frequency": "monthly",
+        "setup_fee": "$200",
+        "includes": ["Complete bookkeeping", "Inventory tracking", "Staff commission management", "Monthly reports", "Quarterly planning"]
+      },
+      "software_expertise": ["QuickBooks Online", "Xero", "Square Integration"],
+      "payroll_capable": true,
+      "payroll_details": "Payroll for salon/spa staff, commission tracking",
+      "reviews": {
+        "average_rating": 4.96,
+        "total_reviews": 52,
+        "recent_quote": "Emma understands the beauty business like nobody else. She helped us identify which services are most profitable!"
+      },
+      "availability": "Now accepting new clients",
+      "free_consultation": true,
+      "industries_served": ["Beauty & Wellness", "Salons", "Spas", "Fitness Centers"]
+    }
+  ]
+}
