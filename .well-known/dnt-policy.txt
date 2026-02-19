@@ -1,0 +1,20 @@
+DNT: This site honors the Do Not Track (DNT) preference signal.
+
+We respect user privacy choices:
+
+1. TRACKING: We do not use third-party tracking cookies or behavioral advertising
+2. ANALYTICS: We use privacy-respecting analytics (no personal data collection)
+3. DATA SHARING: We do not share user data with advertisers or third parties
+4. RETENTION: Personal data is retained only as long as necessary
+5. GDPR/CCPA: We comply with EU GDPR and California CCPA regulations
+
+User Rights:
+- You have the right to access your data
+- You have the right to request deletion
+- You have the right to data portability
+- You can opt-out of optional tracking at any time
+
+For privacy questions: privacy@budgetbookkeepers.com
+Full Privacy Policy: https://budgetbookkeepers.com/privacy
+
+Last Updated: 2026-02-18
