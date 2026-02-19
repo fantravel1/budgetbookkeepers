@@ -236,3 +236,34 @@ Small business deduction alone justifies incorporation in Canada.
 ---
 
 **Find a Canadian Tax Specialist**: Browse our directory (filter for Canada)
+
+
+---
+
+## Related Resources
+
+### Industry Guides for This Market
+- [E-Commerce](../industries/e-commerce.md)
+- [SaaS & Tech](../industries/saas-tech.md)
+- [Food & Beverage](../industries/food-beverage.md)
+- [Construction](../industries/construction-contracting.md)
+
+### Compare With Other Countries
+- [United States](./united-states.md)
+- [United Kingdom](./united-kingdom.md)
+- [All Country Guides](./README.md)
+
+### Advanced Financial Guides
+- [Scaling Your Business](../advanced/scaling.md)
+- [International Expansion](../advanced/internationalization.md)
+- [Fundraising & Capital](../advanced/fundraising.md)
+
+### Foundational Guides
+- [Getting Started with Bookkeeping](../getting-started-bookkeeping.md)
+- [Tax Planning Guide](../tax-planning-guide.md)
+- [Comprehensive FAQ (116 Questions)](../faq.md)
+
+### Find a Specialist
+- [Browse All Industry Guides](../industries/README.md)
+- [Browse All Country Guides](./README.md)
+- [Find a Bookkeeper](../../../)

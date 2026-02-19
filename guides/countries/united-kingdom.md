@@ -226,3 +226,34 @@
 ---
 
 **Find a UK Tax Specialist**: Browse our directory (filter for United Kingdom)
+
+
+---
+
+## Related Resources
+
+### Industry Guides for This Market
+- [Professional Services](../industries/professional-services.md)
+- [Creative Agencies](../industries/creative-agencies.md)
+- [Freelance & Consulting](../industries/freelance-consulting.md)
+- [SaaS & Tech](../industries/saas-tech.md)
+
+### Compare With Other Countries
+- [Germany](./germany.md)
+- [United States](./united-states.md)
+- [All Country Guides](./README.md)
+
+### Advanced Financial Guides
+- [Scaling Your Business](../advanced/scaling.md)
+- [International Expansion](../advanced/internationalization.md)
+- [Fundraising & Capital](../advanced/fundraising.md)
+
+### Foundational Guides
+- [Getting Started with Bookkeeping](../getting-started-bookkeeping.md)
+- [Tax Planning Guide](../tax-planning-guide.md)
+- [Comprehensive FAQ (116 Questions)](../faq.md)
+
+### Find a Specialist
+- [Browse All Industry Guides](../industries/README.md)
+- [Browse All Country Guides](./README.md)
+- [Find a Bookkeeper](../../../)

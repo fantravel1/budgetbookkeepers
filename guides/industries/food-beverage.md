@@ -246,3 +246,34 @@ Before opening, model out: Food cost % + Expected labor % = Feasibility
 ---
 
 **Find a Restaurant/Cafe Specialist**: Browse our directory (filter for F&B)
+
+
+---
+
+## Related Resources
+
+### Related Industry Guides
+- [Retail](./retail.md)
+- [Freelance & Consulting](./freelance-consulting.md)
+- [Salons & Beauty](./salons-beauty.md)
+
+### Country Tax Guides
+- [United States](../countries/united-states.md)
+- [Canada](../countries/canada.md)
+- [United Kingdom](../countries/united-kingdom.md)
+
+### Advanced Financial Guides
+- [Scaling Your Business](../advanced/scaling.md)
+
+### Foundational Guides
+- [Getting Started with Bookkeeping](../getting-started-bookkeeping.md)
+- [Understanding Accounting Basics](../accounting-basics.md)
+- [Tax Planning Guide](../tax-planning-guide.md)
+- [Financial Management for Small Businesses](../financial-management-small-business.md)
+- [Comprehensive FAQ (116 Questions)](../faq.md)
+
+### Find a Specialist
+- [Browse All Industry Guides](./README.md)
+- [Browse Country Guides](../countries/README.md)
+- [Browse Advanced Guides](../advanced/README.md)
+- [Find a Bookkeeper](../../../)

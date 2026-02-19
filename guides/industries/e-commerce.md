@@ -159,3 +159,35 @@ Know your unit economics before scaling. Every $1 of growth should maintain or i
 ---
 
 **Find an E-commerce Specialist**: Browse our bookkeeper directory filtered for e-commerce expertise
+
+
+---
+
+## Related Resources
+
+### Related Industry Guides
+- [Digital Products](./digital-products.md)
+- [Retail](./retail.md)
+- [SaaS & Tech](./saas-tech.md)
+
+### Country Tax Guides
+- [United States](../countries/united-states.md)
+- [United Kingdom](../countries/united-kingdom.md)
+- [Australia](../countries/australia.md)
+
+### Advanced Financial Guides
+- [Scaling Your Business](../advanced/scaling.md)
+- [International Expansion](../advanced/internationalization.md)
+
+### Foundational Guides
+- [Getting Started with Bookkeeping](../getting-started-bookkeeping.md)
+- [Understanding Accounting Basics](../accounting-basics.md)
+- [Tax Planning Guide](../tax-planning-guide.md)
+- [Financial Management for Small Businesses](../financial-management-small-business.md)
+- [Comprehensive FAQ (116 Questions)](../faq.md)
+
+### Find a Specialist
+- [Browse All Industry Guides](./README.md)
+- [Browse Country Guides](../countries/README.md)
+- [Browse Advanced Guides](../advanced/README.md)
+- [Find a Bookkeeper](../../../)

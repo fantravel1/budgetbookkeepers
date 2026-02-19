@@ -217,3 +217,36 @@ Focus on: Cap rate, DSCR, cash-on-cash return, and tenant quality.
 ---
 
 **Find a Real Estate Specialist**: Browse our directory (filter for real estate)
+
+
+---
+
+## Related Resources
+
+### Related Industry Guides
+- [Construction & Contracting](./construction-contracting.md)
+- [Legal Services](./legal-services.md)
+- [Professional Services](./professional-services.md)
+
+### Country Tax Guides
+- [United States](../countries/united-states.md)
+- [Australia](../countries/australia.md)
+- [UAE](../countries/united-arab-emirates.md)
+
+### Advanced Financial Guides
+- [Scaling Your Business](../advanced/scaling.md)
+- [Exit Planning](../advanced/exit-planning.md)
+- [Mergers & Acquisitions](../advanced/mergers-acquisitions.md)
+
+### Foundational Guides
+- [Getting Started with Bookkeeping](../getting-started-bookkeeping.md)
+- [Understanding Accounting Basics](../accounting-basics.md)
+- [Tax Planning Guide](../tax-planning-guide.md)
+- [Financial Management for Small Businesses](../financial-management-small-business.md)
+- [Comprehensive FAQ (116 Questions)](../faq.md)
+
+### Find a Specialist
+- [Browse All Industry Guides](./README.md)
+- [Browse Country Guides](../countries/README.md)
+- [Browse Advanced Guides](../advanced/README.md)
+- [Find a Bookkeeper](../../../)

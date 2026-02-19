@@ -204,3 +204,34 @@ Solution: Increase pricing, improve efficiency, or accept lower margin to keep t
 ---
 
 **Find a Salon Specialist**: Browse our directory (filter for beauty/wellness)
+
+
+---
+
+## Related Resources
+
+### Related Industry Guides
+- [Fitness & Wellness](./fitness-wellness.md)
+- [Retail](./retail.md)
+- [Food & Beverage](./food-beverage.md)
+
+### Country Tax Guides
+- [United States](../countries/united-states.md)
+- [Canada](../countries/canada.md)
+- [Australia](../countries/australia.md)
+
+### Advanced Financial Guides
+- [Scaling Your Business](../advanced/scaling.md)
+
+### Foundational Guides
+- [Getting Started with Bookkeeping](../getting-started-bookkeeping.md)
+- [Understanding Accounting Basics](../accounting-basics.md)
+- [Tax Planning Guide](../tax-planning-guide.md)
+- [Financial Management for Small Businesses](../financial-management-small-business.md)
+- [Comprehensive FAQ (116 Questions)](../faq.md)
+
+### Find a Specialist
+- [Browse All Industry Guides](./README.md)
+- [Browse Country Guides](../countries/README.md)
+- [Browse Advanced Guides](../advanced/README.md)
+- [Find a Bookkeeper](../../../)

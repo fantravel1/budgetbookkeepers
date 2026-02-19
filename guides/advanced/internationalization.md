@@ -289,3 +289,35 @@ Plan conservatively, execute carefully, have capital reserves.
 ---
 
 **Find an International Specialist**: Browse our directory (filter for international/global)
+
+
+---
+
+## Related Resources
+
+### Related Industry Guides
+- [E-Commerce](../industries/e-commerce.md)
+- [SaaS & Tech](../industries/saas-tech.md)
+- [Manufacturing & Export](../industries/manufacturing-export.md)
+
+### Other Advanced Guides
+- [Scaling Your Business](./scaling.md)
+- [Mergers & Acquisitions](./mergers-acquisitions.md)
+- [All Advanced Guides](./README.md)
+
+### Country Tax Guides
+- [United States](../countries/united-states.md)
+- [United Kingdom](../countries/united-kingdom.md)
+- [Singapore](../countries/singapore.md)
+- [All Country Guides](../countries/README.md)
+
+### Foundational Guides
+- [Getting Started with Bookkeeping](../getting-started-bookkeeping.md)
+- [Accounting Basics](../accounting-basics.md)
+- [Tax Planning Guide](../tax-planning-guide.md)
+- [Financial Management](../financial-management-small-business.md)
+- [Comprehensive FAQ (116 Questions)](../faq.md)
+
+### Find a Specialist
+- [Browse All Industry Guides](../industries/README.md)
+- [Find a Bookkeeper](../../../)

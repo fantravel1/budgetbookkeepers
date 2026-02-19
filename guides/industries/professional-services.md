@@ -196,3 +196,35 @@ Solution: Raise prices, improve efficiency, or reduce overhead.
 ---
 
 **Find a Professional Services Specialist**: Browse our directory
+
+
+---
+
+## Related Resources
+
+### Related Industry Guides
+- [Legal Services](./legal-services.md)
+- [Freelance & Consulting](./freelance-consulting.md)
+- [Creative Agencies](./creative-agencies.md)
+
+### Country Tax Guides
+- [United States](../countries/united-states.md)
+- [United Kingdom](../countries/united-kingdom.md)
+- [Singapore](../countries/singapore.md)
+
+### Advanced Financial Guides
+- [Scaling Your Business](../advanced/scaling.md)
+- [Exit Planning](../advanced/exit-planning.md)
+
+### Foundational Guides
+- [Getting Started with Bookkeeping](../getting-started-bookkeeping.md)
+- [Understanding Accounting Basics](../accounting-basics.md)
+- [Tax Planning Guide](../tax-planning-guide.md)
+- [Financial Management for Small Businesses](../financial-management-small-business.md)
+- [Comprehensive FAQ (116 Questions)](../faq.md)
+
+### Find a Specialist
+- [Browse All Industry Guides](./README.md)
+- [Browse Country Guides](../countries/README.md)
+- [Browse Advanced Guides](../advanced/README.md)
+- [Find a Bookkeeper](../../../)

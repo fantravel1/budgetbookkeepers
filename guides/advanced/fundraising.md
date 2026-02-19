@@ -310,3 +310,36 @@ Don't fundraise when:
 ---
 
 **Find a Fundraising Specialist**: Browse our directory (filter for startups/fundraising)
+
+
+---
+
+## Related Resources
+
+### Related Industry Guides
+- [SaaS & Tech](../industries/saas-tech.md)
+- [Digital Products](../industries/digital-products.md)
+- [E-Commerce](../industries/e-commerce.md)
+
+### Other Advanced Guides
+- [Scaling Your Business](./scaling.md)
+- [Exit Planning](./exit-planning.md)
+- [Mergers & Acquisitions](./mergers-acquisitions.md)
+- [All Advanced Guides](./README.md)
+
+### Country Tax Guides
+- [United States](../countries/united-states.md)
+- [United Kingdom](../countries/united-kingdom.md)
+- [Singapore](../countries/singapore.md)
+- [All Country Guides](../countries/README.md)
+
+### Foundational Guides
+- [Getting Started with Bookkeeping](../getting-started-bookkeeping.md)
+- [Accounting Basics](../accounting-basics.md)
+- [Tax Planning Guide](../tax-planning-guide.md)
+- [Financial Management](../financial-management-small-business.md)
+- [Comprehensive FAQ (116 Questions)](../faq.md)
+
+### Find a Specialist
+- [Browse All Industry Guides](../industries/README.md)
+- [Find a Bookkeeper](../../../)

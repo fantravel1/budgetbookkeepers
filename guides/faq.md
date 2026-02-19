@@ -1136,3 +1136,43 @@ You make better decisions. Everything else follows.
 **Still have questions?** Reach out to one of our 105+ bookkeepers and accountants across 50 countries. Most offer free consultations to answer your specific questions.
 
 **Remember:** The best business decision is often asking for help from someone who knows your numbers better than you do.
+
+
+---
+
+## Deep Dive Resources
+
+Want to go deeper on any topic? These guides provide comprehensive coverage:
+
+### By Topic
+
+**Starting a Business?**
+- [Getting Started with Bookkeeping](./getting-started-bookkeeping.md) - Complete setup guide
+- [Understanding Accounting Basics](./accounting-basics.md) - Financial fundamentals
+
+**Taxes & Deductions?**
+- [Tax Planning Guide](./tax-planning-guide.md) - Deduction strategies by country
+- [USA Tax Guide](./countries/united-states.md) | [Canada](./countries/canada.md) | [UK](./countries/united-kingdom.md) | [Australia](./countries/australia.md)
+- [Germany](./countries/germany.md) | [Singapore](./countries/singapore.md) | [India](./countries/india.md) | [UAE](./countries/united-arab-emirates.md)
+
+**Managing Finances?**
+- [Financial Management Guide](./financial-management-small-business.md) - From startup to scale
+- [Scaling Your Business](./advanced/scaling.md) - $100K to $1M playbook
+
+**Industry-Specific Questions?**
+- [E-Commerce](./industries/e-commerce.md) | [SaaS & Tech](./industries/saas-tech.md) | [Food & Beverage](./industries/food-beverage.md)
+- [Freelance](./industries/freelance-consulting.md) | [Healthcare](./industries/healthcare-medical.md) | [Real Estate](./industries/real-estate.md)
+- [Nonprofits](./industries/nonprofits.md) | [Retail](./industries/retail.md) | [Construction](./industries/construction-contracting.md)
+- [All 18 Industry Guides](./industries/README.md)
+
+**Growing or Exiting?**
+- [Fundraising & Capital](./advanced/fundraising.md) - Angel, VC, debt options
+- [M&A Guide](./advanced/mergers-acquisitions.md) - Buying or selling a business
+- [Exit Planning](./advanced/exit-planning.md) - 5-year preparation guide
+- [International Expansion](./advanced/internationalization.md) - Going global
+
+### Browse All Content
+- [All Industry Guides (18)](./industries/README.md)
+- [All Country Guides (8)](./countries/README.md)
+- [All Advanced Guides (5)](./advanced/README.md)
+- [Find a Bookkeeper](../)
