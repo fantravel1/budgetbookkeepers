@@ -234,3 +234,34 @@
 ---
 
 **Find an India Tax Specialist**: Browse our directory (filter for India)
+
+
+---
+
+## Related Resources
+
+### Industry Guides for This Market
+- [SaaS & Tech](../industries/saas-tech.md)
+- [Manufacturing & Export](../industries/manufacturing-export.md)
+- [Freelance & Consulting](../industries/freelance-consulting.md)
+- [Digital Products](../industries/digital-products.md)
+
+### Compare With Other Countries
+- [Singapore](./singapore.md)
+- [UAE](./united-arab-emirates.md)
+- [All Country Guides](./README.md)
+
+### Advanced Financial Guides
+- [Scaling Your Business](../advanced/scaling.md)
+- [International Expansion](../advanced/internationalization.md)
+- [Fundraising & Capital](../advanced/fundraising.md)
+
+### Foundational Guides
+- [Getting Started with Bookkeeping](../getting-started-bookkeeping.md)
+- [Tax Planning Guide](../tax-planning-guide.md)
+- [Comprehensive FAQ (116 Questions)](../faq.md)
+
+### Find a Specialist
+- [Browse All Industry Guides](../industries/README.md)
+- [Browse All Country Guides](./README.md)
+- [Find a Bookkeeper](../../../)

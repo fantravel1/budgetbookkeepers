@@ -301,3 +301,36 @@ Get control of cash flow before chasing revenue.
 ---
 
 **Find a Growth-Stage Specialist**: Browse our directory (filter for scaling/growth)
+
+
+---
+
+## Related Resources
+
+### Related Industry Guides
+- [E-Commerce](../industries/e-commerce.md)
+- [SaaS & Tech](../industries/saas-tech.md)
+- [Food & Beverage](../industries/food-beverage.md)
+- [Retail](../industries/retail.md)
+
+### Other Advanced Guides
+- [Fundraising & Capital](./fundraising.md)
+- [Exit Planning](./exit-planning.md)
+- [All Advanced Guides](./README.md)
+
+### Country Tax Guides
+- [United States](../countries/united-states.md)
+- [United Kingdom](../countries/united-kingdom.md)
+- [Singapore](../countries/singapore.md)
+- [All Country Guides](../countries/README.md)
+
+### Foundational Guides
+- [Getting Started with Bookkeeping](../getting-started-bookkeeping.md)
+- [Accounting Basics](../accounting-basics.md)
+- [Tax Planning Guide](../tax-planning-guide.md)
+- [Financial Management](../financial-management-small-business.md)
+- [Comprehensive FAQ (116 Questions)](../faq.md)
+
+### Find a Specialist
+- [Browse All Industry Guides](../industries/README.md)
+- [Find a Bookkeeper](../../../)

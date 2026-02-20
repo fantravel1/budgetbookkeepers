@@ -257,12 +257,51 @@ They can help with:
 
 ---
 
-## 📖 Additional Resources
+## 📖 Complete Content Library
 
-- **[Budget Bookkeepers Main Site]**: Find professional bookkeepers
-- **[Success Stories]**: See how other women entrepreneurs got their finances under control
-- **[Software Comparison]**: Choose the right bookkeeping tool
-- **[FAQ]**: Answers to common questions
+### Foundational Guides (Start Here)
+- **[Getting Started with Bookkeeping](./getting-started-bookkeeping.md)** - 12 min, Beginner
+- **[Understanding Accounting Basics](./accounting-basics.md)** - 15 min, Intermediate
+- **[Tax Planning Guide](./tax-planning-guide.md)** - 18 min, Intermediate
+- **[Financial Management for Small Businesses](./financial-management-small-business.md)** - 16 min, Intermediate
+- **[Comprehensive FAQ (116 Q&A Pairs)](./faq.md)** - Reference, All Levels
+
+### Industry-Specific Guides (18 Industries)
+- [E-Commerce & Online Retail](./industries/e-commerce.md) | [SaaS & Tech Startups](./industries/saas-tech.md)
+- [Food & Beverage](./industries/food-beverage.md) | [Nonprofits](./industries/nonprofits.md)
+- [Manufacturing & Export](./industries/manufacturing-export.md) | [Healthcare & Medical](./industries/healthcare-medical.md)
+- [Freelance & Consulting](./industries/freelance-consulting.md) | [Salons & Beauty](./industries/salons-beauty.md)
+- [Coaching & Training](./industries/coaching-training.md) | [Creative Agencies](./industries/creative-agencies.md)
+- [Real Estate](./industries/real-estate.md) | [Construction & Contracting](./industries/construction-contracting.md)
+- [Professional Services](./industries/professional-services.md) | [Legal Services](./industries/legal-services.md)
+- [Retail](./industries/retail.md) | [Fitness & Wellness](./industries/fitness-wellness.md)
+- [Digital Products](./industries/digital-products.md)
+- **[Browse All Industry Guides](./industries/README.md)**
+
+### Country Tax Guides (8 Markets)
+- [United States](./countries/united-states.md) | [Canada](./countries/canada.md) | [United Kingdom](./countries/united-kingdom.md)
+- [Australia](./countries/australia.md) | [Germany](./countries/germany.md) | [Singapore](./countries/singapore.md)
+- [India](./countries/india.md) | [United Arab Emirates](./countries/united-arab-emirates.md)
+- **[Browse All Country Guides](./countries/README.md)**
+
+### Advanced Financial Guides (Scaling & Beyond)
+- [Scaling Your Business: $100K to $1M](./advanced/scaling.md)
+- [International Expansion](./advanced/internationalization.md)
+- [Fundraising & Capital Strategy](./advanced/fundraising.md)
+- [Mergers & Acquisitions](./advanced/mergers-acquisitions.md)
+- [Exit Planning](./advanced/exit-planning.md)
+- **[Browse All Advanced Guides](./advanced/README.md)**
+
+### HTML Guide Pages
+- [What is Bookkeeping?](./what-is-bookkeeping.html)
+- [How to Hire a Bookkeeper](./how-to-hire-bookkeeper.html)
+- [Bookkeeping Pricing Guide](./bookkeeping-pricing-guide.html)
+- [Industry-Specific Overview](./industry-specific-guide.html)
+- [Country-Specific Overview](./country-specific-guide.html)
+
+### Success Stories & Directory
+- [Client Success Stories](../stories/client-success-stories.html)
+- [Find a Bookkeeper](../) - 105+ professionals in 50 countries
 
 ---
 
@@ -288,23 +327,34 @@ Have questions? Want to share feedback? Contact us! Your input helps us make the
 
 ## 🎓 Reading Order by Goal
 
-**Getting my finances organized (4 hours total)**
-1. Getting Started with Bookkeeping (12 min)
-2. Understanding Accounting Basics (15 min)
-3. Financial Management - Stage 1 section (20 min)
+**Getting my finances organized (2-3 hours)**
+1. [Getting Started with Bookkeeping](./getting-started-bookkeeping.md) (12 min)
+2. [Understanding Accounting Basics](./accounting-basics.md) (15 min)
+3. [Your Industry Guide](./industries/README.md) (15 min)
+4. [FAQ - Getting Started section](./faq.md) (reference)
 
-**Reducing my tax bill (2.5 hours total)**
-1. Tax Planning Guide overview (18 min)
-2. Tax Planning Guide - Country-specific section (20 min)
-3. Financial Management - Tax strategy section (15 min)
+**Reducing my tax bill (2-3 hours)**
+1. [Tax Planning Guide](./tax-planning-guide.md) (18 min)
+2. [Your Country Guide](./countries/README.md) (15 min)
+3. [FAQ - Taxes section](./faq.md) (reference)
 
-**Scaling my business (3 hours total)**
-1. Financial Management - Growth & Scaling sections (30 min)
-2. Understanding Accounting Basics - Financial ratios (15 min)
-3. Tax Planning Guide - Entity structure section (15 min)
-4. Getting Started with Bookkeeping - Systems section (10 min)
+**Scaling my business (3-4 hours)**
+1. [Financial Management Guide](./financial-management-small-business.md) (16 min)
+2. [Scaling $100K to $1M](./advanced/scaling.md) (15 min)
+3. [Your Industry Guide](./industries/README.md) (15 min)
+4. [Fundraising & Capital](./advanced/fundraising.md) (15 min)
 
-**Complete financial mastery (4-5 hours total)**
-Read all four guides in order (1 hour each on average).
+**Preparing to exit (3-4 hours)**
+1. [Exit Planning](./advanced/exit-planning.md) (20 min)
+2. [M&A Guide](./advanced/mergers-acquisitions.md) (15 min)
+3. [Your Country Guide](./countries/README.md) - tax section (15 min)
+
+**Going international (3 hours)**
+1. [International Expansion](./advanced/internationalization.md) (15 min)
+2. [Target Country Guide](./countries/README.md) (15 min)
+3. [Your Industry Guide](./industries/README.md) (15 min)
+
+**Complete financial mastery (8-10 hours)**
+Read all guides in order: Foundational → Industry → Country → Advanced.
 
 Choose your path. Invest the time. Transform your business.

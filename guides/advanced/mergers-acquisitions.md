@@ -277,3 +277,36 @@ Walk away from bad deals, even when you "think" you should accept.
 ---
 
 **Find an M&A Specialist**: Browse our directory (filter for M&A/business sale)
+
+
+---
+
+## Related Resources
+
+### Related Industry Guides
+- [Professional Services](../industries/professional-services.md)
+- [SaaS & Tech](../industries/saas-tech.md)
+- [Legal Services](../industries/legal-services.md)
+
+### Other Advanced Guides
+- [Exit Planning](./exit-planning.md)
+- [Fundraising & Capital](./fundraising.md)
+- [Scaling Your Business](./scaling.md)
+- [All Advanced Guides](./README.md)
+
+### Country Tax Guides
+- [United States](../countries/united-states.md)
+- [United Kingdom](../countries/united-kingdom.md)
+- [Singapore](../countries/singapore.md)
+- [All Country Guides](../countries/README.md)
+
+### Foundational Guides
+- [Getting Started with Bookkeeping](../getting-started-bookkeeping.md)
+- [Accounting Basics](../accounting-basics.md)
+- [Tax Planning Guide](../tax-planning-guide.md)
+- [Financial Management](../financial-management-small-business.md)
+- [Comprehensive FAQ (116 Questions)](../faq.md)
+
+### Find a Specialist
+- [Browse All Industry Guides](../industries/README.md)
+- [Find a Bookkeeper](../../../)

@@ -237,3 +237,36 @@ Plan for this. Negotiate supplier terms and customer payment terms accordingly.
 ---
 
 **Find a Manufacturing Specialist**: Browse our directory (filter for manufacturing/export)
+
+
+---
+
+## Related Resources
+
+### Related Industry Guides
+- [E-Commerce](./e-commerce.md)
+- [Retail](./retail.md)
+- [Construction & Contracting](./construction-contracting.md)
+
+### Country Tax Guides
+- [Germany](../countries/germany.md)
+- [India](../countries/india.md)
+- [Singapore](../countries/singapore.md)
+
+### Advanced Financial Guides
+- [International Expansion](../advanced/internationalization.md)
+- [Scaling Your Business](../advanced/scaling.md)
+- [Mergers & Acquisitions](../advanced/mergers-acquisitions.md)
+
+### Foundational Guides
+- [Getting Started with Bookkeeping](../getting-started-bookkeeping.md)
+- [Understanding Accounting Basics](../accounting-basics.md)
+- [Tax Planning Guide](../tax-planning-guide.md)
+- [Financial Management for Small Businesses](../financial-management-small-business.md)
+- [Comprehensive FAQ (116 Questions)](../faq.md)
+
+### Find a Specialist
+- [Browse All Industry Guides](./README.md)
+- [Browse Country Guides](../countries/README.md)
+- [Browse Advanced Guides](../advanced/README.md)
+- [Find a Bookkeeper](../../../)

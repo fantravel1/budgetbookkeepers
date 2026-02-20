@@ -282,3 +282,35 @@ You must collect sales tax in states where you have "nexus":
 ---
 
 **Find a US Tax Specialist**: Browse our directory (filter for USA)
+
+
+---
+
+## Related Resources
+
+### Industry Guides for This Market
+- [E-Commerce](../industries/e-commerce.md)
+- [SaaS & Tech](../industries/saas-tech.md)
+- [Healthcare](../industries/healthcare-medical.md)
+- [Legal Services](../industries/legal-services.md)
+- [Real Estate](../industries/real-estate.md)
+
+### Compare With Other Countries
+- [Canada](./canada.md)
+- [United Kingdom](./united-kingdom.md)
+- [All Country Guides](./README.md)
+
+### Advanced Financial Guides
+- [Scaling Your Business](../advanced/scaling.md)
+- [International Expansion](../advanced/internationalization.md)
+- [Fundraising & Capital](../advanced/fundraising.md)
+
+### Foundational Guides
+- [Getting Started with Bookkeeping](../getting-started-bookkeeping.md)
+- [Tax Planning Guide](../tax-planning-guide.md)
+- [Comprehensive FAQ (116 Questions)](../faq.md)
+
+### Find a Specialist
+- [Browse All Industry Guides](../industries/README.md)
+- [Browse All Country Guides](./README.md)
+- [Find a Bookkeeper](../../../)

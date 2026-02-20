@@ -271,3 +271,36 @@ Every dollar spent acquiring a customer should return 3-5 dollars over their lif
 ---
 
 **Find a SaaS Specialist Bookkeeper**: Browse our directory (filter for tech/startups)
+
+
+---
+
+## Related Resources
+
+### Related Industry Guides
+- [Digital Products](./digital-products.md)
+- [E-Commerce](./e-commerce.md)
+- [Creative Agencies](./creative-agencies.md)
+
+### Country Tax Guides
+- [United States](../countries/united-states.md)
+- [Singapore](../countries/singapore.md)
+- [India](../countries/india.md)
+
+### Advanced Financial Guides
+- [Fundraising & Capital](../advanced/fundraising.md)
+- [Scaling Your Business](../advanced/scaling.md)
+- [Exit Planning](../advanced/exit-planning.md)
+
+### Foundational Guides
+- [Getting Started with Bookkeeping](../getting-started-bookkeeping.md)
+- [Understanding Accounting Basics](../accounting-basics.md)
+- [Tax Planning Guide](../tax-planning-guide.md)
+- [Financial Management for Small Businesses](../financial-management-small-business.md)
+- [Comprehensive FAQ (116 Questions)](../faq.md)
+
+### Find a Specialist
+- [Browse All Industry Guides](./README.md)
+- [Browse Country Guides](../countries/README.md)
+- [Browse Advanced Guides](../advanced/README.md)
+- [Find a Bookkeeper](../../../)

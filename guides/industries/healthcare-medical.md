@@ -198,3 +198,34 @@ Aggressive patient payment collection is essential. Many practices leave 10-20% 
 ---
 
 **Find a Healthcare Specialist**: Browse our directory (filter for medical/healthcare)
+
+
+---
+
+## Related Resources
+
+### Related Industry Guides
+- [Professional Services](./professional-services.md)
+- [Nonprofits](./nonprofits.md)
+- [Legal Services](./legal-services.md)
+
+### Country Tax Guides
+- [United States](../countries/united-states.md)
+- [Canada](../countries/canada.md)
+- [Australia](../countries/australia.md)
+
+### Advanced Financial Guides
+- [Scaling Your Business](../advanced/scaling.md)
+
+### Foundational Guides
+- [Getting Started with Bookkeeping](../getting-started-bookkeeping.md)
+- [Understanding Accounting Basics](../accounting-basics.md)
+- [Tax Planning Guide](../tax-planning-guide.md)
+- [Financial Management for Small Businesses](../financial-management-small-business.md)
+- [Comprehensive FAQ (116 Questions)](../faq.md)
+
+### Find a Specialist
+- [Browse All Industry Guides](./README.md)
+- [Browse Country Guides](../countries/README.md)
+- [Browse Advanced Guides](../advanced/README.md)
+- [Find a Bookkeeper](../../../)

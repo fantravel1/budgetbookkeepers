@@ -221,3 +221,33 @@
 ---
 
 **Find a German Tax Specialist**: Browse our directory (filter for Germany)
+
+
+---
+
+## Related Resources
+
+### Industry Guides for This Market
+- [Manufacturing & Export](../industries/manufacturing-export.md)
+- [SaaS & Tech](../industries/saas-tech.md)
+- [Professional Services](../industries/professional-services.md)
+
+### Compare With Other Countries
+- [United Kingdom](./united-kingdom.md)
+- [Singapore](./singapore.md)
+- [All Country Guides](./README.md)
+
+### Advanced Financial Guides
+- [Scaling Your Business](../advanced/scaling.md)
+- [International Expansion](../advanced/internationalization.md)
+- [Fundraising & Capital](../advanced/fundraising.md)
+
+### Foundational Guides
+- [Getting Started with Bookkeeping](../getting-started-bookkeeping.md)
+- [Tax Planning Guide](../tax-planning-guide.md)
+- [Comprehensive FAQ (116 Questions)](../faq.md)
+
+### Find a Specialist
+- [Browse All Industry Guides](../industries/README.md)
+- [Browse All Country Guides](./README.md)
+- [Find a Bookkeeper](../../../)
